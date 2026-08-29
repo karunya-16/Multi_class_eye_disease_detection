@@ -1,0 +1,2 @@
+exact_match_n,exact_match_rate,adjacent_error_n,adjacent_error_rate,distant_error_n,distant_error_rate,mean_abs_class_distance,median_abs_class_distance
+147,0.5444444444444444,89,0.3296296296296296,34,0.1259259259259259,0.5814814814814815,0.0

@@ -1,0 +1,6 @@
+class_id,class_name_used_in_project,source_folder_name,documented_clinical_name,severity_percentage_annotation
+0,Class 0,0,NOT DOCUMENTED IN PROJECT,NOT AVAILABLE
+1,Class 1,1,NOT DOCUMENTED IN PROJECT,NOT AVAILABLE
+2,Class 2,2,NOT DOCUMENTED IN PROJECT,NOT AVAILABLE
+3,Class 3,3,NOT DOCUMENTED IN PROJECT,NOT AVAILABLE
+4,Class 4,4,NOT DOCUMENTED IN PROJECT,NOT AVAILABLE

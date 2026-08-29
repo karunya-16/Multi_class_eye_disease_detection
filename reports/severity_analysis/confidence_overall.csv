@@ -1,0 +1,2 @@
+n_images,mean_confidence,median_confidence,min_confidence,max_confidence,mean_confidence_correct,mean_confidence_incorrect
+270,0.6883337497711182,0.6878664493560791,0.3455601930618286,0.9998410940170288,0.7376402616500854,0.6294064521789551

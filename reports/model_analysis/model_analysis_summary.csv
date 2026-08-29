@@ -1,0 +1,2 @@
+total_test_images,correct_predictions,incorrect_predictions,overall_accuracy,average_confidence,highest_confidence,lowest_confidence
+270,128,142,0.4740740740740741,0.752892255783081,0.9999407529830933,0.36712655425071716

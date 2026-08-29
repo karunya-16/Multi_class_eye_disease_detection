@@ -1,0 +1,2 @@
+severity_labels_available,named_clinical_grades_in_project,percentage_or_score_column,mapping_file_found,labels_actually_present,project_class_names
+False,False,False,False,"integer class IDs 0-4 (folders 0,1,2,3,4)","Class 0, Class 1, Class 2, Class 3, Class 4"

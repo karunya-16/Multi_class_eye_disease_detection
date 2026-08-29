@@ -1,0 +1,11 @@
+image_path,true_class_name,predicted_class_name,confidence,is_correct
+../dataset/Messidor-2+EyePac_Balanced\1\20060411_58993_0200_PP.png,Class 1,Class 2,0.3455602,False
+../dataset/Messidor-2+EyePac_Balanced\3\43105_left.jpeg,Class 3,Class 4,0.38797304,False
+../dataset/Messidor-2+EyePac_Balanced\2\20060411_59728_0200_PP.png,Class 2,Class 1,0.39510858,False
+../dataset/Messidor-2+EyePac_Balanced\4\40917_left.jpeg,Class 4,Class 2,0.40428796,False
+../dataset/Messidor-2+EyePac_Balanced\1\20060411_61060_0200_PP.png,Class 1,Class 1,0.40762612,True
+../dataset/Messidor-2+EyePac_Balanced\0\20060411_58413_0200_PP.png,Class 0,Class 2,0.4102791,False
+../dataset/Messidor-2+EyePac_Balanced\2\20051202_55582_0400_PP.png,Class 2,Class 0,0.41678706,False
+../dataset/Messidor-2+EyePac_Balanced\0\20051216_45992_0200_PP.png,Class 0,Class 0,0.42161465,True
+../dataset/Messidor-2+EyePac_Balanced\2\20060412_58471_0200_PP.png,Class 2,Class 2,0.42633125,True
+../dataset/Messidor-2+EyePac_Balanced\1\20060522_45402_0100_PP.png,Class 1,Class 2,0.42697585,False

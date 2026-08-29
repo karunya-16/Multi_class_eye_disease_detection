@@ -1,0 +1,22 @@
+{
+  "image_path": "D:\\Practice Projects\\Disease Detection\\dataset\\Messidor-2+EyePac_Balanced\\0\\20051020_43808_0100_PP.png",
+  "predicted_class_id": 2,
+  "predicted_class_name": "Class 2",
+  "confidence": 0.4807136058807373,
+  "probabilities": {
+    "Class 0": 0.20171938836574554,
+    "Class 1": 0.31513601541519165,
+    "Class 2": 0.4807136058807373,
+    "Class 3": 0.0014360130298882723,
+    "Class 4": 0.000995046691969037
+  },
+  "severity": "Not available",
+  "severity_labels_available": false,
+  "disclaimer": "This system is an AI-based research prototype for eye disease screening. The prediction and confidence score are not a medical diagnosis and should not be interpreted as disease severity or percentage of eye damage. Please consult a qualified eye-care professional for clinical evaluation.",
+  "image_size": [
+    224,
+    224
+  ],
+  "pixel_range": "0-255",
+  "model_path": "D:\\Practice Projects\\Disease Detection\\model\\efficientnetv2_finetuned_best.keras"
+}

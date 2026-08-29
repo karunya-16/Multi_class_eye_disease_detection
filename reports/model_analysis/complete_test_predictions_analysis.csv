@@ -1,0 +1,271 @@
+image_path,true_label,predicted_class,confidence,correct,true_class_name,predicted_class_name
+..\dataset\Messidor-2+EyePac_Balanced\3\20060412_51952_0200_PP.png,3,2,0.7329734563827515,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_55086_0400_PP.png,0,0,0.6574232578277588,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\1\20051202_54555_0400_PP - Copy.png,1,2,0.8828156590461731,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060411_59587_0200_PP.png,1,0,0.584743320941925,False,Class 1,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\0\20060410_44364_0200_PP.png,0,0,0.5807574987411499,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\2\20051116_54839_0400_PP.png,2,2,0.6215196847915649,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060411_58993_0200_PP.png,1,2,0.6721789836883545,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060410_45188_0200_PP.png,0,2,0.7345209717750549,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\25741_right - Copy.jpeg,4,4,0.7311197519302368,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20060410_47042_0200_PP.png,2,2,0.5106391906738281,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051020_44762_0100_PP.png,1,2,0.9422909021377563,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060407_44617_0200_PP.png,2,2,0.9716259837150574,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM000769.JPG,1,2,0.926815927028656,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060530_55837_0100_PP.png,2,2,0.9424970149993896,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM002530.JPG,1,2,0.6505942344665527,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\IM003229.JPG,4,4,0.9643452763557434,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\3748_right.jpeg,3,3,0.9729964137077332,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\38825_right.jpeg,3,3,0.5823636054992676,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\20051021_39314_0100_PP.png,2,2,0.9328005313873291,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20060530_53271_0100_PP.png,3,2,0.8205466866493225,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\3088_left.jpeg,4,4,0.9884588122367859,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\16633_left.jpeg,3,4,0.903048574924469,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20051021_57975_0100_PP.png,0,2,0.6309964656829834,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_58965_0200_PP.png,1,2,0.4396496117115021,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\31442_right - Copy.jpeg,4,4,0.8633344173431396,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\20051216_47024_0200_PP.png,3,3,0.49348992109298706,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\1\20060410_39355_0200_PP - Copy.png,1,2,0.5712857246398926,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051213_62188_0100_PP - Copy.png,1,2,0.48052215576171875,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060412_57650_0200_PP.png,2,1,0.5852200388908386,False,Class 2,Class 1
+..\dataset\Messidor-2+EyePac_Balanced\3\34547_left.jpeg,3,3,0.942872166633606,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\1\20051202_39630_0400_PP.png,1,2,0.8306964635848999,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060410_40254_0200_PP.png,1,0,0.6055738925933838,False,Class 1,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\3\42172_left.jpeg,3,3,0.5443191528320312,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_48931_0100_PP.png,0,2,0.6116377711296082,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\4531_left.jpeg,4,4,0.6946814656257629,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\4366_left.jpeg,3,3,0.838610053062439,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\1\20060523_50408_0100_PP.png,1,2,0.8349027633666992,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\IM000057.JPG,0,2,0.667327344417572,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051021_39661_0100_PP.png,2,2,0.9666031002998352,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\29058_right - Copy.jpeg,4,4,0.9978554844856262,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\4366_right.jpeg,3,4,0.8602876663208008,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_63032_0200_PP.png,1,2,0.522287130355835,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\24317_left.jpeg,3,3,0.9528891444206238,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\32604_right.jpeg,3,3,0.8899864554405212,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\4\9311_right.jpeg,4,4,0.9404957294464111,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\29097_left.jpeg,3,4,0.8593767881393433,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20051214_50895_0100_PP.png,2,2,0.9201750159263611,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\IM001942.JPG,4,4,0.6294975876808167,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\IM003772.JPG,2,2,0.6513208746910095,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051021_40180_0100_PP.png,2,2,0.755604088306427,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051207_62320_0400_PP.png,1,2,0.48267441987991333,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\IM000473.JPG,2,2,0.9153247475624084,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060407_39402_0200_PP.png,1,0,0.8007346987724304,False,Class 1,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\2\20060412_52174_0200_PP.png,2,2,0.6789833307266235,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20858_left.jpeg,3,4,0.8548009395599365,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20060523_45369_0100_PP.png,2,2,0.5399389863014221,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060407_44422_0200_PP.png,0,2,0.7852447628974915,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051216_45478_0200_PP.png,1,2,0.6272386312484741,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051020_63936_0100_PP.png,1,2,0.8880914449691772,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060411_61869_0200_PP.png,0,0,0.7200685739517212,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_51656_0200_PP.png,1,0,0.5002866387367249,False,Class 1,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\3\8302_right.jpeg,3,4,0.9920519590377808,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060530_53928_0100_PP.png,0,2,0.7856868505477905,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\33840_left.jpeg,3,4,0.36712631583213806,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20051202_36970_0400_PP - Copy.png,1,2,0.8436853885650635,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\2016_left - Copy.jpeg,4,4,0.873757004737854,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\21746_left.jpeg,3,3,0.9617688059806824,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\20060412_58471_0200_PP.png,2,4,0.3921804130077362,False,Class 2,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20060530_54030_0100_PP.png,2,2,0.9398115873336792,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\25318_right.jpeg,3,3,0.6257284283638,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\39322_right - Copy.jpeg,3,3,0.7174649834632874,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\29604_left.jpeg,3,3,0.6266067624092102,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_59658_0200_PP.png,1,0,0.43995314836502075,False,Class 1,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\1\20051020_44762_0100_PP - Copy.png,1,2,0.9422909021377563,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20051214_56778_0100_PP.png,3,2,0.6681992411613464,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060410_39976_0200_PP.png,1,2,0.5312135815620422,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051216_46018_0200_PP.png,0,0,0.5353032946586609,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\0\20051110_34013_0400_PP.png,0,0,0.5856116414070129,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\1\20051110_35926_0400_PP - Copy.png,1,2,0.9568130970001221,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_49745_0100_PP.png,0,1,0.4346991777420044,False,Class 0,Class 1
+..\dataset\Messidor-2+EyePac_Balanced\3\20060411_61624_0200_PP.png,3,2,0.8368674516677856,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060412_60454_0200_PP.png,2,2,0.8191061615943909,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_49120_0100_PP.png,0,2,0.8005561232566833,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\43997_right.jpeg,4,4,0.9991336464881897,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\29960_left.jpeg,4,4,0.9737038016319275,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\22271_right.jpeg,4,4,0.8241966962814331,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20051207_62275_0400_PP - Copy.png,1,0,0.44799908995628357,False,Class 1,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\2\20051202_55834_0400_PP.png,2,2,0.8154001235961914,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\40078_left.jpeg,4,3,0.5287396311759949,False,Class 4,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\20051020_43906_0100_PP - Copy.png,2,2,0.8382936716079712,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\4374_left.jpeg,4,2,0.6868073344230652,False,Class 4,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_50153_0100_PP.png,0,2,0.584220826625824,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\IM000726.JPG,2,2,0.8825797438621521,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\43105_left.jpeg,3,4,0.6300124526023865,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060410_39047_0200_PP.png,0,2,0.7595796585083008,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\20051214_40849_0100_PP.png,4,2,0.9336985945701599,False,Class 4,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051216_45873_0200_PP.png,0,0,0.6579979658126831,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\0\20051020_62615_0100_PP.png,0,2,0.8616148233413696,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060412_61151_0200_PP.png,2,2,0.648946225643158,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051205_35408_0400_PP.png,2,2,0.9407377243041992,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\4793_right.jpeg,3,4,0.8700754642486572,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20060523_50730_0100_PP.png,1,2,0.9082010388374329,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM000405.JPG,1,2,0.9202637672424316,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051216_45992_0200_PP.png,0,0,0.6633992791175842,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\0\20060412_61383_0200_PP.png,0,2,0.7795882821083069,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20060410_43698_0200_PP.png,3,4,0.41853395104408264,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\24472_right.jpeg,4,4,0.9998583793640137,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\20939_left.jpeg,3,4,0.8905046582221985,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\12652_left - Copy.jpeg,4,3,0.9377580881118774,False,Class 4,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\4155_left.jpeg,3,4,0.4640190601348877,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\13651_right - Copy.jpeg,4,4,0.9999407529830933,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\5304_right - Copy.jpeg,4,4,0.886496901512146,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20060407_41831_0200_PP.png,2,2,0.7787039875984192,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_50325_0100_PP.png,0,2,0.6514013409614563,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051205_58577_0400_PP - Copy.png,1,2,0.5714892745018005,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051202_54547_0400_PP.png,1,2,0.7790884971618652,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_54476_0400_PP.png,0,2,0.6436038017272949,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\27773_right.jpeg,3,3,0.7338350415229797,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\4\7992_left.jpeg,4,4,0.7985482215881348,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\20351_left.jpeg,3,4,0.9345911741256714,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20051214_51039_0100_PP.png,2,2,0.786147952079773,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\13664_left.jpeg,4,4,0.7224284410476685,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\21796_left.jpeg,3,4,0.6514589190483093,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\36166_right.jpeg,4,3,0.5779322385787964,False,Class 4,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\4\6719_right.jpeg,4,4,0.6961899995803833,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\IM004132.JPG,2,2,0.8813924193382263,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\23884_right.jpeg,3,3,0.9708757400512695,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\20060523_43016_0100_PP.png,2,2,0.8706575632095337,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\IM004208.JPG,2,2,0.8982790112495422,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060523_48787_0100_PP.png,2,2,0.8149732947349548,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\4688_right.jpeg,4,4,0.9896438121795654,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\8284_left.jpeg,3,4,0.7454202175140381,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20051020_44636_0100_PP.png,2,2,0.7821178436279297,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\IM000547.JPG,2,2,0.8325268626213074,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051116_54663_0400_PP - Copy.png,1,2,0.8245383501052856,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20060523_50469_0100_PP.png,3,4,0.5370373725891113,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\39164_right.jpeg,4,4,0.6736092567443848,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20060529_57174_0100_PP.png,1,2,0.8193480372428894,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051202_55582_0400_PP.png,2,2,0.48794546723365784,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\40405_right.jpeg,4,4,0.811092734336853,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20051020_44261_0100_PP.png,0,2,0.7921753525733948,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051213_62518_0100_PP.png,0,2,0.9116517305374146,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051214_41490_0100_PP.png,2,2,0.9702140092849731,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\IM004207.JPG,2,2,0.9032936096191406,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051116_44804_0400_PP - Copy.png,1,2,0.6054542660713196,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\19771_right - Copy.jpeg,4,4,0.9812573194503784,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\20051213_62648_0100_PP.png,4,2,0.49719545245170593,False,Class 4,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060407_46050_0200_PP.png,1,2,0.6313774585723877,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051020_55701_0100_PP - Copy.png,1,2,0.9447854161262512,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\15975_left - Copy.jpeg,4,4,0.8447973728179932,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060407_44042_0200_PP.png,0,0,0.5674312710762024,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\2\20060523_49942_0100_PP.png,2,2,0.6980962753295898,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\7945_left - Copy.jpeg,4,4,0.8981630802154541,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\40183_left.jpeg,4,4,0.9434951543807983,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20051208_39297_0400_PP.png,2,2,0.636530339717865,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_48161_0100_PP.png,0,2,0.6949343085289001,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\7992_left - Copy.jpeg,4,4,0.7985482215881348,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\20060412_52497_0200_PP.png,3,2,0.754493772983551,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051202_41260_0400_PP.png,1,2,0.7751937508583069,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060411_61060_0200_PP.png,1,2,0.5102511048316956,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\11896_left.jpeg,4,3,0.6873481273651123,False,Class 4,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\0\IM000100.JPG,0,2,0.9059615731239319,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM003773.JPG,1,4,0.616243302822113,False,Class 1,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_58998_0400_PP.png,0,2,0.6529034376144409,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM000725.JPG,1,2,0.6263231039047241,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\7531_right - Copy.jpeg,4,4,0.9540411233901978,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\11871_left.jpeg,3,4,0.5443649291992188,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\37951_right.jpeg,4,4,0.6999667286872864,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\15975_right - Copy.jpeg,4,4,0.8225359916687012,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\38247_right.jpeg,3,3,0.5196189284324646,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\4\IM003230.JPG,4,4,0.7691783905029297,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\IM003811.JPG,2,2,0.9709488749504089,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\33685_right.jpeg,3,3,0.9468226432800293,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\1\20051020_43832_0100_PP.png,1,2,0.655153751373291,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060529_56700_0100_PP.png,2,2,0.8879165649414062,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_51775_0200_PP.png,1,2,0.7237038612365723,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\15319_left.jpeg,3,3,0.6179441809654236,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\0\20051205_58409_0400_PP.png,0,2,0.8603360056877136,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051202_55650_0400_PP.png,2,2,0.9002867341041565,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051205_58109_0400_PP.png,0,2,0.8458459377288818,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051216_46183_0200_PP.png,0,2,0.48857057094573975,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060523_50392_0100_PP.png,2,2,0.8288525938987732,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051213_62046_0100_PP.png,1,2,0.8639809489250183,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060523_50631_0100_PP.png,0,2,0.43620479106903076,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\44200_right.jpeg,3,4,0.44032469391822815,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\IM000107.JPG,0,2,0.4930683374404907,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\3868_right.jpeg,3,3,0.5292486548423767,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\20051212_36640_0400_PP.png,2,2,0.8188869953155518,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051205_59651_0400_PP.png,0,2,0.7840902805328369,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\1008_right.jpeg,3,3,0.7509354948997498,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\0\20060412_61365_0200_PP.png,0,0,0.5897538661956787,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\0\20060410_41098_0200_PP.png,0,0,0.4634844958782196,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\4\20458_right - Copy.jpeg,4,3,0.7204015254974365,False,Class 4,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\4\9216_left.jpeg,4,4,0.9738359451293945,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\14844_left.jpeg,4,4,0.7599573731422424,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060407_44510_0200_PP.png,0,2,0.5687434077262878,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060407_45834_0200_PP.png,0,2,0.6167321801185608,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060412_52038_0200_PP.png,2,2,0.7446620464324951,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\28840_left.jpeg,3,4,0.8526208400726318,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\42265_right.jpeg,3,3,0.5804161429405212,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\4282_right.jpeg,3,4,0.9002195596694946,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20060411_61419_0200_PP.png,2,2,0.789088785648346,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060410_40274_0200_PP.png,2,0,0.6075397729873657,False,Class 2,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\2\20060407_45494_0200_PP.png,2,2,0.8203444480895996,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\13651_right.jpeg,4,4,0.9999407529830933,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060530_55180_0100_PP.png,0,2,0.9599389433860779,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060410_39859_0200_PP.png,0,2,0.7489563226699829,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\38856_left.jpeg,4,4,0.9896001815795898,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20060411_58238_0200_PP.png,2,2,0.7450359463691711,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\IM004346.JPG,4,2,0.8785330057144165,False,Class 4,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\43157_right.jpeg,3,3,0.578740119934082,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\3\42772_right.jpeg,3,4,0.977822482585907,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20051116_54587_0400_PP.png,1,2,0.762182891368866,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051213_62437_0100_PP.png,2,3,0.9241227507591248,False,Class 2,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\4\24010_right - Copy.jpeg,4,4,0.9506856799125671,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\4\936_right.jpeg,4,4,0.9873985052108765,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20051117_37155_0400_PP.png,0,2,0.9264484643936157,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\19771_left - Copy.jpeg,4,4,0.9966902732849121,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_63088_0200_PP.png,1,2,0.6072587370872498,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\1138_left - Copy.jpeg,4,4,0.9298323392868042,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20051205_57942_0400_PP.png,0,2,0.5915898680686951,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM000066.JPG,1,2,0.8780621290206909,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060411_59941_0200_PP.png,1,2,0.48486214876174927,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_61681_0200_PP.png,1,2,0.5661956071853638,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM001927.JPG,1,2,0.688011109828949,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20051208_42322_0400_PP.png,3,2,0.6922559142112732,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051214_51921_0100_PP.png,2,2,0.4416753351688385,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060410_44601_0200_PP.png,0,1,0.3938433527946472,False,Class 0,Class 1
+..\dataset\Messidor-2+EyePac_Balanced\0\20051117_37078_0400_PP.png,0,2,0.6638939380645752,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051216_45899_0200_PP.png,1,2,0.5223125219345093,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\39353_right.jpeg,4,4,0.9993453621864319,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060407_43856_0200_PP.png,0,2,0.453217089176178,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\13819_left - Copy.jpeg,4,4,0.9932152032852173,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\1\IM000500.JPG,1,2,0.9014959931373596,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\30301_left.jpeg,3,3,0.9957596659660339,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_59993_0400_PP.png,0,2,0.8488993048667908,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_60822_0400_PP.png,0,2,0.847102701663971,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051212_38076_0400_PP.png,1,2,0.9494624733924866,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051214_51342_0100_PP.png,0,0,0.6822318434715271,True,Class 0,Class 0
+..\dataset\Messidor-2+EyePac_Balanced\4\4155_right.jpeg,4,4,0.8259133696556091,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\2\20051020_65230_0100_PP.png,2,2,0.7100860476493835,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20060407_43834_0200_PP.png,0,2,0.36983123421669006,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060522_45402_0100_PP.png,1,2,0.7077978253364563,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060411_59728_0200_PP.png,2,2,0.6474159955978394,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051205_57838_0400_PP.png,0,2,0.7448881268501282,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\34844_right.jpeg,4,4,0.9999347925186157,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\20060530_55724_0100_PP.png,3,2,0.7952942848205566,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM001146.JPG,1,2,0.9869310259819031,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\7531_left.jpeg,3,4,0.9672732949256897,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20060411_58413_0200_PP.png,0,2,0.6024743914604187,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051214_42323_0100_PP.png,0,2,0.5513840317726135,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20060411_61196_0200_PP.png,2,2,0.7470653057098389,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_60601_0400_PP.png,0,2,0.7491059303283691,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051020_64570_0100_PP.png,2,2,0.9660526514053345,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20051116_44750_0400_PP.png,1,2,0.5323848128318787,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20060523_50539_0100_PP.png,3,2,0.888336718082428,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051202_54611_0400_PP.png,2,2,0.9603933691978455,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\20060412_52020_0200_PP.png,1,2,0.4925696551799774,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\2\20051021_59136_0100_PP.png,2,2,0.9625512361526489,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\40917_left.jpeg,4,4,0.6155675649642944,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\30495_left.jpeg,3,4,0.9423738718032837,False,Class 3,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\3\20051212_41169_0400_PP.png,3,2,0.48668935894966125,False,Class 3,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\0\20051130_59775_0400_PP.png,0,2,0.5481851100921631,False,Class 0,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\1\IM002148.JPG,1,2,0.5335443019866943,False,Class 1,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\3\20760_left.jpeg,3,3,0.7853831648826599,True,Class 3,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\IM000248.JPG,2,2,0.8930507898330688,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\28524_right.jpeg,4,3,0.7827609777450562,False,Class 4,Class 3
+..\dataset\Messidor-2+EyePac_Balanced\2\20051021_51748_0100_PP.png,2,2,0.8197992444038391,True,Class 2,Class 2
+..\dataset\Messidor-2+EyePac_Balanced\4\30297_left - Copy.jpeg,4,4,0.9743622541427612,True,Class 4,Class 4
+..\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,0,2,0.7705220580101013,False,Class 0,Class 2

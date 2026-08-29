@@ -1,0 +1,6 @@
+image_path,class_id,class_name,probability,is_predicted_class
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,0,Class 0,0.20171938836574554,False
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,1,Class 1,0.31513601541519165,False
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,2,Class 2,0.4807136058807373,True
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,3,Class 3,0.0014360130298882723,False
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,4,Class 4,0.000995046691969037,False

@@ -1,0 +1,14 @@
+true_class,predicted_class_name,count
+Class 1,Class 2,47
+Class 0,Class 2,41
+Class 3,Class 4,22
+Class 3,Class 2,9
+Class 1,Class 0,6
+Class 4,Class 3,6
+Class 4,Class 2,4
+Class 0,Class 1,2
+Class 1,Class 4,1
+Class 2,Class 4,1
+Class 2,Class 3,1
+Class 2,Class 1,1
+Class 2,Class 0,1

@@ -1,0 +1,2 @@
+image_path,predicted_class_id,predicted_class_name,confidence,severity,severity_labels_available,image_size,pixel_range,model_path
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,2,Class 2,0.4807136058807373,Not available,False,224x224,0-255,D:\Practice Projects\Disease Detection\model\efficientnetv2_finetuned_best.keras

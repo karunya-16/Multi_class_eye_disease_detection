@@ -1,0 +1,11 @@
+image_path,true_class_name,predicted_class_name,confidence,is_correct
+../dataset/Messidor-2+EyePac_Balanced\4\34844_right.jpeg,Class 4,Class 4,0.9998411,True
+../dataset/Messidor-2+EyePac_Balanced\4\24472_right.jpeg,Class 4,Class 4,0.9997708,True
+../dataset/Messidor-2+EyePac_Balanced\4\13651_right - Copy.jpeg,Class 4,Class 4,0.99951315,True
+../dataset/Messidor-2+EyePac_Balanced\4\13651_right.jpeg,Class 4,Class 4,0.99951315,True
+../dataset/Messidor-2+EyePac_Balanced\4\43997_right.jpeg,Class 4,Class 4,0.99908507,True
+../dataset/Messidor-2+EyePac_Balanced\4\39353_right.jpeg,Class 4,Class 4,0.9975702,True
+../dataset/Messidor-2+EyePac_Balanced\3\30301_left.jpeg,Class 3,Class 3,0.997521,True
+../dataset/Messidor-2+EyePac_Balanced\4\19771_left - Copy.jpeg,Class 4,Class 4,0.9963154,True
+../dataset/Messidor-2+EyePac_Balanced\3\8302_right.jpeg,Class 3,Class 4,0.99263304,False
+../dataset/Messidor-2+EyePac_Balanced\4\29058_right - Copy.jpeg,Class 4,Class 4,0.9917605,True

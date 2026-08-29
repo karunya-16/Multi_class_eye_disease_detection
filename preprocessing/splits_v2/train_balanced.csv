@@ -1,0 +1,1273 @@
+original_image_path,target_class,target_label,split
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_44261_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_44338_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_44400_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_44982_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_56791_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_57157_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_58065_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_61757_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_62577_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_62615_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_63269_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_63337_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_64249_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_36380_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_36476_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_51418_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_51994_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_57798_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_57862_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_57975_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_58388_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051109_59969_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051109_60031_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051109_60136_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_33960_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_34013_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_37992_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_38111_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_38280_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_38313_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051116_43388_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051116_43585_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051116_43710_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051116_43721_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051116_43785_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051116_43801_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051117_37051_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051117_37078_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051117_37130_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051117_37155_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051117_37185_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_53623_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54323_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54476_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54498_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54595_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54802_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54846_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55012_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55037_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55048_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55311_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55381_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55393_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_58716_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_58888_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_58962_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_58998_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59284_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59457_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59464_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59749_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59793_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59964_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59993_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60040_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60186_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60562_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60601_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60630_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60691_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60715_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60822_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_37312_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_37382_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_37390_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_37409_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_37557_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38041_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38103_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38137_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38155_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38211_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38280_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38291_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38321_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051202_37162_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051202_51599_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_57651_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_57799_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_57838_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_57879_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_57942_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58080_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58091_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58109_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58125_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58177_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58409_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58458_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58613_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59240_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59367_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59379_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59538_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59617_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59651_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59833_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59901_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_60093_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_60119_0400_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051213_61892_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051213_61951_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051213_62251_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051213_62314_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051213_62518_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051213_62572_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_40994_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_42133_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_42323_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_42363_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_51308_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_51342_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_51442_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_56242_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_56392_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_56688_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_57761_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_57817_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_44092_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_44398_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_44420_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_44811_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_44832_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_45992_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_39155_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_39184_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_39306_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_39328_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_39761_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_41149_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_42290_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_43726_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_43746_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_44422_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_44510_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_44743_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_44866_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_45230_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_45718_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_46235_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_39229_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_39859_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_40953_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_40979_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_41098_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_41901_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_43979_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_45167_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_45188_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060411_58891_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060411_60511_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060411_61702_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060411_61869_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_51835_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_52098_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_52446_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_57874_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_57952_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_58723_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_58802_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_59175_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_59196_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_59355_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_61064_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_61383_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_61665_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_61790_0200_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_43758_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_45777_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_45796_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_46104_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_46379_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_46400_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_42953_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_43105_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_43333_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_43354_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_45300_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_45316_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_45449_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_45467_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_47987_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_48005_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_48136_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_48161_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_48406_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_48591_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_48931_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49120_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49176_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49191_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49663_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49681_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49726_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_49745_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_50153_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_50325_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_50631_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56013_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56039_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56420_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56442_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56968_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_57261_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_57287_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_57351_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_51254_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53062_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53132_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53152_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53597_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53742_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53761_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53928_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53954_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_55180_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_55607_0100_PP.png,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000056.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000057.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000080.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000086.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000087.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000100.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000101.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000107.JPG,0,Class 0,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_43832_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_44762_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_44762_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_44782_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_44782_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_45004_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_45004_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_55701_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_55701_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_56592_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_56592_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_63045_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_63829_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_63829_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_63936_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_63936_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_64703_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_64703_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051021_39482_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051021_40018_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051021_40018_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051021_58316_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051109_57451_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051109_57451_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051109_59751_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051109_59751_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051109_59864_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051109_59864_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051110_35926_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051110_35926_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051110_38239_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051110_38239_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_43995_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_43995_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_44750_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_44750_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_44816_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_44816_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54484_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54484_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54587_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54642_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54642_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54663_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54663_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54692_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54692_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051117_37213_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051117_37213_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_54616_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_54616_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_55124_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_55124_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_59916_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_59916_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_59930_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_59930_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_60760_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051130_60760_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051201_38537_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051201_38537_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_37199_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_37199_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_39708_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_41260_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_41260_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_48421_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_48421_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_51574_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_51574_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051205_59300_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051205_59300_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051205_59702_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051205_59702_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_54614_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_54614_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62252_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62252_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62275_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62275_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62320_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051212_36548_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051212_36548_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051212_38076_0400_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051212_38076_0400_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_40361_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_40361_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_40456_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_40456_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_40719_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_40719_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_50933_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_52695_0100_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_52695_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45100_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45100_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45375_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45375_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45478_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45478_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45595_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45595_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45757_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45899_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45899_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_39667_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_39667_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_40957_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_40957_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_41330_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_44173_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_44173_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_44192_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_44192_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_45087_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_45087_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_45592_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_45592_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060407_46050_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39334_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39334_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39355_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39355_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39726_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39726_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39976_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_39976_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_40254_0200_PP - Copy.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_40254_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_40481_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_40605_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_40830_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_41077_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_41330_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_41626_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_41747_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_43675_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_44623_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_46874_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_47016_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_47166_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_47331_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_57962_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_57986_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58051_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58155_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58718_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58971_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58993_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_59657_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_60028_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_60347_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_60368_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_60446_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_61029_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_61548_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_61564_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_61952_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_61979_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_62142_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_62228_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_51656_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_51775_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_52020_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_52587_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_52758_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_52978_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_57846_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_58171_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_58368_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_58387_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_58668_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_58945_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59012_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59037_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59100_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59124_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59400_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59636_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_59658_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_60337_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_60396_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_60475_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_60573_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_60825_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_61299_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_61316_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_61593_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_61615_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_61681_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_63009_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_63032_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_63088_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_63104_0200_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060522_45069_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060522_45402_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060522_45935_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060522_45967_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060522_46454_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_43267_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_48425_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_48643_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_48659_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_49269_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_49288_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_49449_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_49591_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_50408_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060529_56853_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060529_57174_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_53617_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_55203_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_55370_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_55390_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_55451_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_55628_0100_PP.png,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000013.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000065.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000066.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000079.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000145.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000320.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000405.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000406.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000413.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000500.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000530.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000654.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000725.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000732.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000768.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000826.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000834.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000848.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000880.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000984.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001110.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001146.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001200.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001301.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001358.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001439.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001643.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001681.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001926.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001927.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001964.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002148.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002252.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002455.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002529.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002530.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002584.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002765.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002766.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002901.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002991.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM003146.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM003221.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM003330.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM003603.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM003773.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM004086.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM004797.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM004811.JPG,1,Class 1,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_43906_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_43906_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_44349_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_44349_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_44598_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_44598_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_57622_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_57844_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_57844_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_58214_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_58214_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_58276_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_58276_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_62014_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_62014_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_64570_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_64570_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_65166_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_65166_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_36097_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_36097_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_39314_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_39552_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_39719_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_40074_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_40180_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_40248_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_51625_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_58802_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_54454_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_54825_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_55656_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_58804_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_58816_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_58835_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_58864_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_58872_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_59150_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_59168_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_51518_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_54197_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_54744_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55582_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55626_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55669_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55816_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55834_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55921_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55944_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_56028_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_56050_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051205_31994_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051205_33012_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051205_35305_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051205_35408_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051207_55266_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051207_56227_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_39297_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_39438_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_39462_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_39532_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_39546_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_42546_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051212_36640_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051212_37442_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051212_38000_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051212_38043_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051212_38106_0400_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051213_62437_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_40596_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_41358_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_41429_0100_PP - Copy.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_41429_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_51039_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_51071_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_51840_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_51921_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_52707_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_56269_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_56565_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_57260_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_57404_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_44939_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_44961_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_45351_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_46624_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_47383_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_47668_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_40582_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_40624_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_41809_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_41831_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_41937_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_43436_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_43460_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_44285_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_44617_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_44636_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_45477_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_45494_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_45611_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_46422_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_40146_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_40165_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_40274_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_41767_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_44106_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_44124_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_44224_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_44248_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_47042_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_47351_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_51958_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_51985_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_57853_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_58134_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_58221_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_58303_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_58328_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_58624_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59062_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59087_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59176_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59549_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59747_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59812_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59859_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59919_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_60263_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_60283_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_60426_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_61214_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_61641_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_61781_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_61808_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_62298_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_62319_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_51677_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52038_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52122_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52174_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52194_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52271_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52685_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52777_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52860_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_57680_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58314_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58471_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58497_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58548_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58563_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58638_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58747_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58869_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_59735_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_60454_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_60545_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_60978_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61081_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61151_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61169_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61222_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61251_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61808_0200_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060522_45248_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060522_45455_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060522_45718_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_43038_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45235_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45369_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45389_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45662_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45697_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45812_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_48028_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_48102_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_48477_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_48572_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_49010_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_49928_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_49942_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_50019_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_50234_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_50262_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060529_56338_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060529_56700_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060529_56730_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060529_57447_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_36860_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_36895_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_51399_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_53455_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_53522_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_53540_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54030_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54107_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54117_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54312_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54332_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54529_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54556_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54632_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54653_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_55816_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_55837_0100_PP.png,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000093.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000094.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000248.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000249.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000472.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000473.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000546.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000547.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000726.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000895.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000896.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000985.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001231.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001232.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001245.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001253.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001476.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001477.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001617.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001618.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001644.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001680.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001866.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001867.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002268.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002523.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002726.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002952.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002953.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002983.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM003431.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM003482.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM003772.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM003811.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004052.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004053.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004085.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004132.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004207.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004208.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004347.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004508.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004812.JPG,2,Class 2,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1008_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\10153_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11035_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11035_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11211_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11292_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11546_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11590_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11590_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11697_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1177_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1177_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11871_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1196_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\12208_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\12208_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\12612_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\12652_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\12667_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\13190_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\13716_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\13716_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\14109_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\14109_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\14129_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\14297_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\14297_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15319_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15319_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15450_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15450_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15795_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15923_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15930_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15930_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16011_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16011_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1639_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1639_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16633_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16633_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16651_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16651_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16692_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16740_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\17631_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\17631_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18025_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18025_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18126_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18235_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18235_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18416_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18968_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18970_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\19018_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1919_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\19367_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_45050_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_45068_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_53062_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_53178_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_54209_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_55346_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_57761_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_62385_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_64007_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051021_36208_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051021_51804_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051021_52075_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051021_58683_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051021_59243_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051208_42322_0400_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051212_41169_0400_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051213_62383_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51569_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51609_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51701_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51733_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51953_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_52204_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_56778_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_57154_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051216_45245_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051216_46660_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051216_46847_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051216_47000_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051216_47024_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060410_43698_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060411_57879_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060411_62373_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060411_62390_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060412_51952_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060412_52520_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060412_52931_0200_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_43196_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_48199_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_48499_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_49809_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_49875_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_50469_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_50489_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_50539_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_50556_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_50790_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_50806_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060529_57030_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060529_57063_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060529_57430_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_53271_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_53421_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_54242_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_55724_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_55746_0100_PP.png,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20167_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20351_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20458_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20760_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20760_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20858_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20905_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20939_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\2132_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\21746_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\21746_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\21796_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\21796_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\21846_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\22769_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\22801_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23095_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23426_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23604_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23695_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23787_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23884_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\24075_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\24317_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\24656_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25318_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25620_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25650_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25650_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25723_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25733_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\2577_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\2577_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\26553_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\26553_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\27389_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\27653_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\27773_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28093_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28093_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28129_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28129_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28919_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28919_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28975_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\29097_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\29097_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\29604_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\29604_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30226_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30226_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30301_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30495_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30495_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30922_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30925_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30925_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30930_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30930_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3096_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\31837_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\31962_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\31984_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32242_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32247_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32247_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32603_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32603_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32604_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32711_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32821_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32821_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\33685_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3379_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\33840_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\33840_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34006_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3422_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3422_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34445_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34547_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34673_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34690_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34863_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34918_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\352_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\352_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\35850_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36166_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36213_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36336_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36692_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36692_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36767_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\36978_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\37032_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\37339_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\37426_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3773_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3773_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\38345_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3868_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\38825_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\39322_right - Copy.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\39322_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3992_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\40078_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\40366_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4148_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\41506_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4155_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\41714_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\42172_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\42260_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\42265_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\42772_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\42772_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4282_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4282_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\43105_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\43105_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\43157_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\43416_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\43633_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\43633_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4366_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4374_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\44165_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\44200_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4531_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\4793_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5139_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5140_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5140_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5505_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5505_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5964_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7060_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7060_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7631_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7859_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7859_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8248_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8284_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8302_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8302_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8749_left.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8749_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8950_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\9001_right.jpeg,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\IM001371.JPG,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\IM003481.JPG,3,Class 3,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10017_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10017_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10321_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10321_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10904_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10904_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10904_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10904_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\1138_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\1138_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11854_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11854_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11854_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11854_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11896_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11896_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\12108_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\12108_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\12995_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\12995_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13038_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13038_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13066_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13066_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13387_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13387_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13387_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13387_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13664_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13664_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13811_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13811_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13811_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13811_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13819_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13819_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13819_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13819_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13938_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13938_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\14844_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\14844_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\15459_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\15459_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\15975_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\15975_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\15975_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\15975_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16007_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16007_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16114_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16114_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16309_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16309_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16309_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\16309_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\17669_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\17669_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\17925_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\17925_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\18143_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\18143_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\18798_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\18798_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\19285_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\19285_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051020_45110_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051020_45137_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051020_61998_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051020_62709_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051020_62802_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051021_40377_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051021_40450_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051021_52127_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051021_59459_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051021_59504_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051208_42314_0400_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051213_62648_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051213_62705_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051214_40849_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051214_40912_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051214_56821_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051214_56944_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051214_56971_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20060522_45541_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20060522_45583_0100_PP.png,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\2031_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\2031_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20432_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20432_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22271_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22271_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22568_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22568_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22568_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22568_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23326_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23326_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23604_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23604_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23692_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23692_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23692_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23692_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24010_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24010_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24472_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24472_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24773_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24773_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24853_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24853_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24853_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24853_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\27251_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\27251_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28435_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28435_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28435_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28435_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28524_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28524_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28549_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28549_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28675_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\28675_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\29058_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\29058_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\294_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\294_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\29599_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\29599_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30039_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30039_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30297_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30297_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30549_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30549_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\3064_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\3064_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\3064_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\3064_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30722_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30722_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\3088_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\3088_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\31442_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\31442_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\32851_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33080_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33236_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33283_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33358_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33621_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33621_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33753_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33906_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\34453_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\34453_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\34995_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\34995_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\35112_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\35112_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\35412_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\35955_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\36166_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\36653_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\36653_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\37438_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\37834_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\37951_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\37951_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\38064_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\38407_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\38518_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\38653_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\38856_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\39164_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\39353_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40078_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40178_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40183_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40405_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\406_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\406_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\406_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\406_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40917_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41174_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41174_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41387_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41387_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41746_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41746_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\41852_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\42815_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\43050_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\43997_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\43997_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\44100_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\44249_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\44249_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4531_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4531_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4688_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4688_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4793_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4793_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\5304_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\5304_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\6719_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\6719_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\6719_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\6719_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7531_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7531_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7821_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7821_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7853_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7853_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7992_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7992_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\8090_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\8090_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\8950_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\8950_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9216_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9216_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9311_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9311_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9311_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9311_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9353_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9353_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\936_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\936_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\936_right - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\936_right.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9680_left - Copy.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9680_left.jpeg,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM001751.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM001941.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM001942.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM002487.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM002635.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM002636.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM003229.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM003230.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM003359.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM004183.JPG,4,Class 4,train_balanced
+D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\IM004346.JPG,4,Class 4,train_balanced

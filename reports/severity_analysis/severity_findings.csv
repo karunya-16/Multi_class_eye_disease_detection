@@ -1,0 +1,2 @@
+severity_labels_available,statement_1,statement_2,statement_3,true_severity_percentage_possible,what_model_predicts,what_model_cannot_predict
+False,Severity labels are not available in the current dataset.,Model confidence is not disease severity.,A separate severity-labelled dataset/model is required.,False,One of 5 discrete class IDs (Class 0-Class 4),Named clinical grade; continuous severity percentage; clinically verified disease stage
