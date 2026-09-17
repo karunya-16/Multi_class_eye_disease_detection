@@ -1,0 +1,15 @@
+{
+  "model": "d:\\Practice Projects\\Disease Detection\\model\\efficientnetv2_b0_4class_best.keras",
+  "test_split": "d:\\Practice Projects\\Disease Detection\\preprocessing\\splits_v2\\test.csv",
+  "test_images": 883,
+  "correct_predictions": 750,
+  "incorrect_predictions": 133,
+  "accuracy": 0.8493771234428086,
+  "accuracy_percent": 84.93771234428085,
+  "classes": [
+    "Normal",
+    "Cataract",
+    "Diabetic Retinopathy",
+    "Glaucoma"
+  ]
+}

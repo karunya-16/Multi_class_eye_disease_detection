@@ -1,0 +1,5 @@
+disease,roc_auc
+Normal,0.9408448725016485
+Cataract,0.99101506013473
+Diabetic Retinopathy,0.9974255085675698
+Glaucoma,0.9070547099958864

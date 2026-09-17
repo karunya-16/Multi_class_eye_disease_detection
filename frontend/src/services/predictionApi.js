@@ -40,8 +40,7 @@ function messageForFailure(error) {
 
   if (status === 400) {
     return {
-      message:
-        'The image could not be analyzed. Please upload a valid JPG, JPEG, or PNG fundus photograph.',
+      message: 'Please upload a clear image',
       status,
       code: 'bad_request',
     };
@@ -82,9 +81,38 @@ function isCancelError(error) {
   );
 }
 
+function round4(value) {
+  return Math.round(Number(value) * 10000) / 10000;
+}
+
+function normalizePredictionPayload(raw) {
+  if (!raw || typeof raw !== 'object') return raw;
+  const probabilities = raw.probabilities || raw.class_probabilities;
+  const disease = raw.disease || raw.predicted_label;
+  const classId = raw.class_id ?? raw.predicted_class;
+  const confidence = Number(raw.confidence);
+  const confidencePercentage = Number.isFinite(Number(raw.confidence_percentage))
+    ? Number(raw.confidence_percentage)
+    : Math.round(confidence * 10000) / 100;
+  const gradcam = raw.gradcam;
+  return {
+    ...raw,
+    disease,
+    class_id: classId,
+    predicted_label: disease,
+    predicted_class: classId,
+    confidence: round4(confidence),
+    confidence_percentage: confidencePercentage,
+    probabilities,
+    class_probabilities: probabilities,
+    gradcam_available: raw.gradcam_available === true || Boolean(gradcam),
+  };
+}
+
 function isValidPredictionPayload(payload) {
   if (!payload || typeof payload !== 'object' || payload.success !== true) return false;
   if (typeof payload.predicted_label !== 'string') return false;
+  if (!CLASS_NAMES.includes(payload.predicted_label)) return false;
   if (!Number.isFinite(Number(payload.predicted_class))) return false;
   if (!Number.isFinite(Number(payload.confidence))) return false;
   if (!Number.isFinite(Number(payload.confidence_percentage))) return false;
@@ -98,7 +126,7 @@ function isValidPredictionPayload(payload) {
 
 export async function predictEyeDisease(file, { signal } = {}) {
   if (!(file instanceof File) || file.size <= 0) {
-    throw new PredictionApiError('Please choose a valid JPG, JPEG, or PNG fundus image.', {
+    throw new PredictionApiError('Please choose a valid camera photo or image file.', {
       status: 0,
       code: 'invalid_file',
     });
@@ -113,7 +141,7 @@ export async function predictEyeDisease(file, { signal } = {}) {
       signal,
       timeout: PREDICT_TIMEOUT_MS,
     });
-    payload = response.data;
+    payload = normalizePredictionPayload(response.data);
   } catch (error) {
     if (isCancelError(error)) {
       const cancelError = new Error('Request canceled');
@@ -159,7 +187,7 @@ function isValidExplainPayload(payload) {
 
 export async function explainEyeDisease(file, { signal } = {}) {
   if (!(file instanceof File) || file.size <= 0) {
-    throw new PredictionApiError('Please choose a valid JPG, JPEG, or PNG fundus image.', {
+    throw new PredictionApiError('Please choose a valid camera photo or image file.', {
       status: 0,
       code: 'invalid_file',
     });
@@ -170,11 +198,11 @@ export async function explainEyeDisease(file, { signal } = {}) {
 
   let payload;
   try {
-    const response = await axios.post(`${getApiBaseUrl()}/explain`, formData, {
+    const response = await axios.post(`${getApiBaseUrl()}/predict-with-gradcam`, formData, {
       signal,
       timeout: PREDICT_TIMEOUT_MS,
     });
-    payload = response.data;
+    payload = normalizePredictionPayload(response.data);
   } catch (error) {
     if (isCancelError(error)) {
       const cancelError = new Error('Request canceled');

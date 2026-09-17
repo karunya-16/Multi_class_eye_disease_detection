@@ -1,9 +1,5 @@
-import { useMutation, useQuery } from '@tanstack/react-query';
-import {
-  fetchAnalysisDetail,
-  fetchAnalysisHistory,
-  saveAnalysisResult,
-} from '@/services/historyApi';
+import { useQuery } from '@tanstack/react-query';
+import { fetchAnalysisDetail, fetchAnalysisHistory } from '@/services/historyApi';
 
 export function useAnalysisHistory({
   predictedLabel = '',
@@ -37,14 +33,6 @@ export function useAnalysisDetail(id) {
     queryKey: ['analysis-history', 'detail', analysisId],
     queryFn: ({ signal }) => fetchAnalysisDetail(analysisId, { signal }),
     enabled: Number.isFinite(analysisId) && analysisId > 0,
-    retry: false,
-  });
-}
-
-export function useSaveAnalysis() {
-  return useMutation({
-    mutationKey: ['save-analysis-history'],
-    mutationFn: (payload) => saveAnalysisResult(payload),
     retry: false,
   });
 }

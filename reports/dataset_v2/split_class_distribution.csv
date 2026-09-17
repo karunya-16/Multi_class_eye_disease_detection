@@ -1,0 +1,5 @@
+class_id,disease_name,test,train,validation,TOTAL
+0,Normal,342,1596,342,2280
+1,Cataract,156,727,155,1038
+2,Diabetic Retinopathy,165,768,165,1098
+3,Glaucoma,220,1028,221,1469

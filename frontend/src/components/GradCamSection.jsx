@@ -43,7 +43,7 @@ export default function GradCamSection({
 }) {
   const cam = result?.gradcam;
   const available = result?.gradcam_available === true && cam;
-  const predictedLabel = cam?.predicted_label || result?.predicted_label;
+  const predictedLabel = cam?.predicted_label || result?.disease || result?.predicted_label;
   const confidencePct = Number(
     cam?.confidence_percentage ?? result?.confidence_percentage,
   );
@@ -60,7 +60,7 @@ export default function GradCamSection({
         </div>
         <div className="flex flex-wrap gap-2">
           {predictedLabel ? (
-            <Badge data-testid="gradcam-predicted-label">Predicted class: {predictedLabel}</Badge>
+            <Badge data-testid="gradcam-predicted-label">Predicted disease: {predictedLabel}</Badge>
           ) : null}
           {Number.isFinite(confidencePct) ? (
             <Badge data-testid="gradcam-model-confidence">

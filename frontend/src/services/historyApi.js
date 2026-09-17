@@ -48,98 +48,44 @@ function mapFailure(error, fallback) {
   throw new PredictionApiError(message, { status });
 }
 
+function round4(value) {
+  return Math.round(Number(value) * 10000) / 10000;
+}
+
+export function normalizeHistoryRecord(raw) {
+  if (!raw || typeof raw !== 'object') return raw;
+  const probabilities = raw.probabilities || raw.class_probabilities;
+  const disease = raw.disease || raw.predicted_label;
+  const classId = raw.class_id ?? raw.predicted_class;
+  const confidence = Number(raw.confidence);
+  const confidencePercentage = Number.isFinite(Number(raw.confidence_percentage))
+    ? Number(raw.confidence_percentage)
+    : Math.round(confidence * 10000) / 100;
+  return {
+    ...raw,
+    disease,
+    class_id: classId,
+    confidence: round4(confidence),
+    probabilities,
+    predicted_label: disease,
+    predicted_class: classId,
+    confidence_percentage: confidencePercentage,
+    class_probabilities: probabilities,
+  };
+}
+
 function isValidListItem(item) {
   return (
     item &&
     Number.isFinite(Number(item.id)) &&
-    typeof item.predicted_label === 'string' &&
-    CLASS_NAMES.includes(item.predicted_label) &&
+    typeof item.disease === 'string' &&
+    CLASS_NAMES.includes(item.disease) &&
     Number.isFinite(Number(item.confidence_percentage))
   );
 }
 
-export function dataUrlToFile(dataUrl, filename) {
-  if (typeof dataUrl !== 'string' || !dataUrl.startsWith('data:') || !dataUrl.includes(',')) {
-    return null;
-  }
-  const [header, data] = dataUrl.split(',');
-  if (!data) return null;
-  const mime = /data:([^;]+)/.exec(header)?.[1] || 'image/png';
-  const binary = atob(data);
-  const bytes = new Uint8Array(binary.length);
-  for (let i = 0; i < binary.length; i += 1) {
-    bytes[i] = binary.charCodeAt(i);
-  }
-  return new File([bytes], filename, { type: mime });
-}
-
-export async function saveAnalysisResult({
-  file,
-  requestId,
-  prediction,
-  gradcam = null,
-  signal,
-} = {}) {
-  if (!(file instanceof File) || file.size <= 0) {
-    throw new PredictionApiError('The analysis result could not be saved. Please try again.', {
-      code: 'invalid_file',
-    });
-  }
-  if (!requestId || !prediction) {
-    throw new PredictionApiError('The analysis result could not be saved. Please try again.', {
-      code: 'invalid_payload',
-    });
-  }
-
-  const probabilities = prediction.class_probabilities || {};
-  const formData = new FormData();
-  formData.append('file', file);
-  formData.append('request_id', requestId);
-  formData.append('predicted_class', String(prediction.predicted_class));
-  formData.append('predicted_label', String(prediction.predicted_label));
-  formData.append('confidence', String(prediction.confidence));
-  formData.append('confidence_percentage', String(prediction.confidence_percentage));
-  formData.append('class_0_probability', String(probabilities['Class 0']));
-  formData.append('class_1_probability', String(probabilities['Class 1']));
-  formData.append('class_2_probability', String(probabilities['Class 2']));
-  formData.append('class_3_probability', String(probabilities['Class 3']));
-  formData.append('class_4_probability', String(probabilities['Class 4']));
-
-  const original = dataUrlToFile(gradcam?.original_image, 'original.png');
-  const heatmap = dataUrlToFile(gradcam?.heatmap_image, 'heatmap.png');
-  const overlay = dataUrlToFile(gradcam?.overlay_image, 'overlay.png');
-  if (original) formData.append('original', original);
-  if (heatmap) formData.append('heatmap', heatmap);
-  if (overlay) formData.append('overlay', overlay);
-  if (Array.isArray(gradcam?.heatmap_shape)) {
-    formData.append('heatmap_shape', JSON.stringify(gradcam.heatmap_shape));
-  }
-  if (typeof gradcam?.target_layer === 'string' && gradcam.target_layer.trim()) {
-    formData.append('target_layer', gradcam.target_layer.trim());
-  }
-
-  let payload;
-  try {
-    const response = await axios.post(`${getApiBaseUrl()}/history`, formData, {
-      signal,
-      timeout: 60000,
-    });
-    payload = response.data;
-  } catch (error) {
-    mapFailure(error, 'The analysis result could not be saved to history. Please try again.');
-  }
-
-  if (!payload || payload.success !== true || !Number.isFinite(Number(payload.id))) {
-    throw new PredictionApiError('The analysis result could not be saved to history. Please try again.', {
-      code: 'unexpected_response',
-    });
-  }
-  return payload;
-}
-
 export async function fetchAnalysisHistory({
   predictedLabel,
-  predictedClass,
   query,
   startDate,
   endDate,
@@ -148,8 +94,7 @@ export async function fetchAnalysisHistory({
   signal,
 } = {}) {
   const params = { page, page_size: pageSize };
-  if (Number.isFinite(Number(predictedClass))) params.predicted_class = Number(predictedClass);
-  else if (predictedLabel) params.predicted_label = predictedLabel;
+  if (predictedLabel) params.disease = predictedLabel;
   if (query) params.q = query;
   if (startDate) params.start_date = startDate;
   if (endDate) params.end_date = endDate;
@@ -170,8 +115,9 @@ export async function fetchAnalysisHistory({
       { code: 'unexpected_response' },
     );
   }
+  const items = payload.items.map(normalizeHistoryRecord).filter(isValidListItem);
   return {
-    items: payload.items.filter(isValidListItem),
+    items,
     total: Number(payload.total) || 0,
     page: Number(payload.page) || page,
     pageSize: Number(payload.page_size) || pageSize,
@@ -190,16 +136,16 @@ export async function fetchAnalysisDetail(id, { signal } = {}) {
       signal,
       timeout: 20000,
     });
-    payload = response.data;
+    payload = normalizeHistoryRecord(response.data);
   } catch (error) {
     mapFailure(error, 'That analysis could not be loaded. Please try again.');
   }
   if (
     !payload ||
     payload.success !== true ||
-    typeof payload.predicted_label !== 'string' ||
-    !payload.class_probabilities ||
-    typeof payload.class_probabilities !== 'object'
+    !CLASS_NAMES.includes(payload.disease) ||
+    !payload.probabilities ||
+    typeof payload.probabilities !== 'object'
   ) {
     throw new PredictionApiError(
       'This history record is incomplete and cannot be displayed.',

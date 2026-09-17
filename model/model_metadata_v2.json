@@ -1,0 +1,109 @@
+{
+  "model_name": "efficientnetv2b0_4class",
+  "architecture": "EfficientNetV2-B0",
+  "input_size": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 4,
+  "class_id_to_name": {
+    "0": "Normal",
+    "1": "Cataract",
+    "2": "Diabetic Retinopathy",
+    "3": "Glaucoma"
+  },
+  "preprocessing": {
+    "include_preprocessing": true,
+    "pixel_range": "[0, 255] float32",
+    "note": "EfficientNetV2B0 include_preprocessing=True handles internal scaling"
+  },
+  "training_dataset": {
+    "train_csv": "d:\\Practice Projects\\Disease Detection\\preprocessing\\splits_v2\\train.csv",
+    "val_csv": "d:\\Practice Projects\\Disease Detection\\preprocessing\\splits_v2\\validation.csv",
+    "test_csv": "d:\\Practice Projects\\Disease Detection\\preprocessing\\splits_v2\\test.csv"
+  },
+  "training_config": {
+    "seed": 42,
+    "batch_size": 32,
+    "phase1_lr": 0.001,
+    "phase2_lr": 1e-05,
+    "phase1_epochs_max": 20,
+    "phase2_epochs_max": 40,
+    "dropout_rate": 0.35,
+    "class_weights": {
+      "0": 0.6452,
+      "1": 1.4164,
+      "2": 1.3408,
+      "3": 1.0017
+    },
+    "augmentation": [
+      "RandomFlip(horizontal)",
+      "RandomRotation(0.05)",
+      "RandomZoom(0.10)",
+      "RandomContrast(0.10)"
+    ]
+  },
+  "saved_models": {
+    "best_model": "d:\\Practice Projects\\Disease Detection\\model\\efficientnetv2_b0_4class_best.keras",
+    "final_model": "d:\\Practice Projects\\Disease Detection\\model\\efficientnetv2_b0_4class_final.keras"
+  },
+  "backbone_layer_name": "efficientnetv2-b0",
+  "gradcam_target_layer": "top_activation",
+  "test_metrics": {
+    "test_loss": 0.4263,
+    "test_accuracy": 0.8381,
+    "per_class": [
+      {
+        "class_id": 0,
+        "disease_name": "Normal",
+        "n_samples": 342,
+        "n_correct": 315,
+        "accuracy": 0.9211,
+        "precision": 0.7664,
+        "recall": 0.9211,
+        "f1_score": 0.8367
+      },
+      {
+        "class_id": 1,
+        "disease_name": "Cataract",
+        "n_samples": 156,
+        "n_correct": 144,
+        "accuracy": 0.9231,
+        "precision": 0.878,
+        "recall": 0.9231,
+        "f1_score": 0.9
+      },
+      {
+        "class_id": 2,
+        "disease_name": "Diabetic Retinopathy",
+        "n_samples": 165,
+        "n_correct": 157,
+        "accuracy": 0.9515,
+        "precision": 0.9515,
+        "recall": 0.9515,
+        "f1_score": 0.9515
+      },
+      {
+        "class_id": 3,
+        "disease_name": "Glaucoma",
+        "n_samples": 220,
+        "n_correct": 124,
+        "accuracy": 0.5636,
+        "precision": 0.8671,
+        "recall": 0.5636,
+        "f1_score": 0.6832
+      }
+    ],
+    "macro_avg": {
+      "precision": 0.8658,
+      "recall": 0.8398,
+      "f1-score": 0.8428
+    },
+    "weighted_avg": {
+      "precision": 0.8458,
+      "recall": 0.8381,
+      "f1-score": 0.8311
+    }
+  }
+}

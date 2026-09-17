@@ -1,0 +1,91 @@
+{
+  "model_name": "camera_binary_classifier",
+  "model_path": "d:\\Practice Projects\\Disease Detection\\model\\camera_binary_classifier_best.keras",
+  "architecture": "EfficientNetV2B0 -> GlobalAveragePooling2D -> BatchNormalization -> Dropout(0.4) -> Dense(1,sigmoid)",
+  "input_size": [
+    224,
+    224,
+    3
+  ],
+  "class_mapping": {
+    "0": "Cataract",
+    "1": "Normal"
+  },
+  "domain": "Camera-captured eye images. Normal and Cataract only. DR and Glaucoma NOT supported.",
+  "dataset": {
+    "train": {
+      "Cataract": 1110,
+      "Normal": 191
+    },
+    "val": {
+      "Cataract": 341,
+      "Normal": 38
+    },
+    "test": {
+      "Cataract": 161,
+      "Normal": 29
+    },
+    "train_total": 1301,
+    "val_total": 379,
+    "test_total": 190
+  },
+  "class_imbalance": {
+    "cataract_pct": 85.32,
+    "normal_pct": 14.68
+  },
+  "class_weights": {
+    "0": 0.586036,
+    "1": 3.405759
+  },
+  "class_weight_method": "inverse-frequency: total / (2 * class_count)",
+  "augmentation": {
+    "rotation_range": 10,
+    "horizontal_flip": true,
+    "zoom_range": 0.08,
+    "width_shift_range": 0.06,
+    "height_shift_range": 0.06,
+    "brightness_range": [
+      0.85,
+      1.15
+    ],
+    "applied_to": "train only"
+  },
+  "optimizer": "Adam",
+  "phase1_lr": 0.001,
+  "phase2_lr": 1e-05,
+  "phase2_ran": true,
+  "phase1_epochs_run": 11,
+  "phase2_epochs_run": 9,
+  "best_val_auc": 0.997183,
+  "test_metrics": {
+    "accuracy": 0.9526,
+    "balanced_accuracy": 0.8448,
+    "macro_f1": 0.8946,
+    "roc_auc": 0.9724,
+    "cataract_precision": 0.9471,
+    "cataract_recall": 1.0,
+    "cataract_f1": 0.9728,
+    "normal_precision": 1.0,
+    "normal_recall": 0.6897,
+    "normal_f1": 0.8163,
+    "confusion_matrix": [
+      [
+        161,
+        0
+      ],
+      [
+        9,
+        20
+      ]
+    ],
+    "normal_sample_warning": "Only 29 Normal test samples; Normal metrics have high uncertainty."
+  },
+  "training_date": "2026-09-13T17:32:24.054795+00:00",
+  "isolation_verified": {
+    "fundus_model_modified": false,
+    "fundus_accuracy_modified": false,
+    "fundus_dataset_modified": false,
+    "backend_modified": false,
+    "frontend_modified": false
+  }
+}

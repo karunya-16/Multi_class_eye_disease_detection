@@ -40,7 +40,7 @@ export default function HistoryPage() {
         : '';
   const hasFilters = Boolean(predictedLabel || search.trim());
   const emptyMessage = hasFilters
-    ? 'No analyses match this predicted class or search.'
+    ? 'No analyses match this predicted disease or search.'
     : 'No analysis history available yet.';
 
   return (
@@ -60,14 +60,14 @@ export default function HistoryPage() {
 
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-[220px_1fr_auto]">
         <label className="grid gap-1 text-sm font-medium text-navy">
-          Predicted class
+          Predicted disease
           <select
             className="min-h-11 rounded-lg border border-border bg-card px-3 text-sm text-navy focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
             value={predictedLabel}
             onChange={(event) => setPredictedLabel(event.target.value)}
-            aria-label="Filter history by predicted class"
+            aria-label="Filter history by predicted disease"
           >
-            <option value="">All classes</option>
+            <option value="">All diseases</option>
             {CLASS_NAMES.map((name) => (
               <option key={name} value={name}>
                 {name}
@@ -132,7 +132,7 @@ export default function HistoryPage() {
               <thead className="border-b border-border bg-[#f7fbfa] text-navy">
                 <tr>
                   <th className="px-4 py-3 font-semibold">Date / time</th>
-                  <th className="px-4 py-3 font-semibold">Predicted class</th>
+                  <th className="px-4 py-3 font-semibold">Predicted disease</th>
                   <th className="px-4 py-3 font-semibold">Model Confidence</th>
                   <th className="px-4 py-3 font-semibold">Grad-CAM</th>
                   <th className="px-4 py-3 font-semibold"><span className="sr-only">Actions</span></th>
@@ -142,7 +142,7 @@ export default function HistoryPage() {
                 {items.map((item) => (
                   <tr key={item.id} className="border-b border-border last:border-b-0">
                     <td className="px-4 py-3 text-muted">{formatAnalysisTime(item.created_at)}</td>
-                    <td className="px-4 py-3 font-semibold text-navy">{item.predicted_label}</td>
+                    <td className="px-4 py-3 font-semibold text-navy">{item.disease}</td>
                     <td className="px-4 py-3 text-navy">{Number(item.confidence_percentage).toFixed(2)}%</td>
                     <td className="px-4 py-3 text-muted">
                       {item.gradcam_available ? 'Available' : 'Not stored'}
@@ -168,7 +168,7 @@ export default function HistoryPage() {
                         <Clock3 className="size-4" aria-hidden="true" />
                         {formatAnalysisTime(item.created_at)}
                       </p>
-                      <p className="mt-2 text-lg font-semibold text-navy">{item.predicted_label}</p>
+                      <p className="mt-2 text-lg font-semibold text-navy">{item.disease}</p>
                       <p className="text-sm text-muted">
                         Model Confidence {Number(item.confidence_percentage).toFixed(2)}%
                       </p>

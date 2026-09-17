@@ -1,277 +1,884 @@
-original_image_path,processed_image_path,target_class,target_label
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_43808_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__be2d54d0e0__20051020_43808_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051020_57967_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__4305a91cfa__20051020_57967_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_58035_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__fe25022ae0__20051021_58035_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051021_58388_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__2dcc70fe87__20051021_58388_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_33960_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__c2c032e273__20051110_33960_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_35239_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__41ba6dd18b__20051110_35239_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051110_38156_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__e381f8f596__20051110_38156_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051117_37130_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__3795347167__20051117_37130_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54030_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__30f630b4db__20051130_54030_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_54846_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__17a9e9f3f8__20051130_54846_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55074_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__4014358fcf__20051130_55074_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_55086_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__3ae56d0b69__20051130_55086_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59457_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__ef638c4b8c__20051130_59457_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59749_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__0984d0c949__20051130_59749_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59802_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__ed71928742__20051130_59802_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_59964_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__a8ae187e5b__20051130_59964_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60066_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__f2c1d5cf70__20051130_60066_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60562_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__fb14cbf255__20051130_60562_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051130_60630_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__688b8eb014__20051130_60630_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051201_38262_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__70917fecf0__20051201_38262_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_57809_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__42904a625f__20051205_57809_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58177_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__9e22c8e14b__20051205_58177_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58502_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__8a5e10fe9c__20051205_58502_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_58613_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__37b47ac915__20051205_58613_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59240_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__c71da6a2e8__20051205_59240_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59379_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__f08d8bfaa7__20051205_59379_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59538_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__c1791e83c7__20051205_59538_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59833_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__6d6c75e121__20051205_59833_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_59923_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__41828ac4a9__20051205_59923_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051205_60093_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__eb1409ba16__20051205_60093_0400_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051214_40994_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__c12d16fb1c__20051214_40994_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_43913_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__ea4c29a0ea__20051216_43913_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_44398_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__a9593b2bd2__20051216_44398_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_45873_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__ee3b6e93b1__20051216_45873_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20051216_46183_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__a6a7a85704__20051216_46183_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_39155_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__effe32422f__20060407_39155_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_44743_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__ac0b722c15__20060407_44743_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060407_45230_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__0e3ce7826c__20060407_45230_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_39606_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__3300a6f8bc__20060410_39606_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_41191_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__fef540d98e__20060410_41191_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_43868_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__40b6b59de3__20060410_43868_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060410_44934_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__c26c140262__20060410_44934_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060411_62058_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__251175c896__20060411_62058_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_58723_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__78bc0d0fd9__20060412_58723_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_61064_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__068f19f8dc__20060412_61064_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060412_61525_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__e5edc7a056__20060412_61525_0200_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060522_46149_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__7bf2d18ac8__20060522_46149_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_43105_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__d626798955__20060523_43105_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060523_45449_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__95e710cda9__20060523_45449_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56039_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__1382b691b0__20060529_56039_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_56563_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__269d18969f__20060529_56563_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060529_57372_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__fa0e777419__20060529_57372_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\20060530_53152_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__78c6b338dc__20060530_53152_0100_PP.png,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\0\IM000056.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 0\Messidor-2+EyePac_Balanced__test__a6554317a1__IM000056.jpg,0,Class 0
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_44782_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__320ef589fd__20051020_44782_0100_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_44782_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__320ef589fd__20051020_44782_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_61804_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__527a954ae9__20051020_61804_0100_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_61804_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__527a954ae9__20051020_61804_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_64993_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__07506ef505__20051020_64993_0100_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051020_64993_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__07506ef505__20051020_64993_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_43995_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__f49541c7b4__20051116_43995_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_43995_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__f49541c7b4__20051116_43995_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54642_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__0a92ad5194__20051116_54642_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54642_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__0a92ad5194__20051116_54642_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54692_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__3528238339__20051116_54692_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051116_54692_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__3528238339__20051116_54692_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051201_38537_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__0758e98553__20051201_38537_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051201_38537_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__0758e98553__20051201_38537_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_37199_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__1c6341b079__20051202_37199_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_37199_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__1c6341b079__20051202_37199_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_41260_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__bc2cb5c420__20051202_41260_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_41260_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__bc2cb5c420__20051202_41260_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_51574_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__947e4794a5__20051202_51574_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051202_51574_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__947e4794a5__20051202_51574_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62252_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__6876498c75__20051207_62252_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051207_62252_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__6876498c75__20051207_62252_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051212_38076_0400_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__03f2ae44d5__20051212_38076_0400_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051212_38076_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__03f2ae44d5__20051212_38076_0400_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051214_50933_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__8427266268__20051214_50933_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45595_0200_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__896c210428__20051216_45595_0200_PP_-_Copy.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20051216_45595_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__896c210428__20051216_45595_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_40481_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__787bf54d70__20060410_40481_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_41077_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__aef4b5151a__20060410_41077_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_41626_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__4233c39714__20060410_41626_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_44953_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__b52c5acaeb__20060410_44953_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060410_46893_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__e92cfbf344__20060410_46893_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58718_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__a6d39e9dce__20060411_58718_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58971_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__ff7f5e6855__20060411_58971_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_58993_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__54d5786cbe__20060411_58993_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_61060_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__cc27261aa7__20060411_61060_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_62142_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__d590e9d86c__20060411_62142_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060411_62250_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__ec687d9a37__20060411_62250_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_52020_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__a472329796__20060412_52020_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_52978_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__43fdeffdef__20060412_52978_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_60396_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__3f466de219__20060412_60396_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_61299_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__d82697ceb7__20060412_61299_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060412_63088_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__a839b05210__20060412_63088_0200_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_48425_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__62ec2d996a__20060523_48425_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060523_50408_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__befefea85a__20060523_50408_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\20060530_55203_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__1e1023e502__20060530_55203_0100_PP.png,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000065.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__6534307b04__IM000065.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000413.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__61c5e0e6ce__IM000413.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM000848.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__8474163fe1__IM000848.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001328.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__b5f371cdc3__IM001328.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM001358.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__72e7505f6b__IM001358.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM002765.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__de8b13aeff__IM002765.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\1\IM003221.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 1\Messidor-2+EyePac_Balanced__test__4ae180d1b8__IM003221.jpg,1,Class 1
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_44636_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__461b093f88__20051020_44636_0100_PP_-_Copy.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_44636_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__461b093f88__20051020_44636_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_64518_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__db8108b1d9__20051020_64518_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_64570_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__d29c402277__20051020_64570_0100_PP_-_Copy.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_64570_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__d29c402277__20051020_64570_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_65166_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__6fb935adf6__20051020_65166_0100_PP_-_Copy.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_65166_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__6fb935adf6__20051020_65166_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_65230_0100_PP - Copy.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__482fb4ea0f__20051020_65230_0100_PP_-_Copy.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051020_65230_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__482fb4ea0f__20051020_65230_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_51561_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__75a55b73a3__20051021_51561_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_51748_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__4264349c1b__20051021_51748_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051021_58178_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__57a4c5bfde__20051021_58178_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_54454_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__dd8a96d262__20051116_54454_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_54832_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__cb6e3bb0fe__20051116_54832_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051116_58828_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__54cab49bd6__20051116_58828_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_54744_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__9e79250ed7__20051202_54744_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051202_55582_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__9e79250ed7__20051202_55582_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051205_35408_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__28d0e42a3d__20051205_35408_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051207_56219_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__b82a609567__20051207_56219_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051208_39546_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__105493ad56__20051208_39546_0400_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_41949_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__ac0a77d8dd__20051214_41949_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051214_57404_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__a27a470243__20051214_57404_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20051216_45351_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__b915665772__20051216_45351_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_43460_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__484974c4c8__20060407_43460_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060407_44617_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__62424deafd__20060407_44617_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_40146_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__7c849cc200__20060410_40146_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_40274_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__f513774dff__20060410_40274_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_41767_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__fc6216be25__20060410_41767_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060410_44106_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__4812bbd31d__20060410_44106_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_51985_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__f226fbecb2__20060411_51985_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_58134_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__eefa67c7b7__20060411_58134_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59062_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__1c16880756__20060411_59062_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59176_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__74366fe85d__20060411_59176_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060411_59190_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__fc911d5fe3__20060411_59190_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52038_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__5588860e5a__20060412_52038_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52122_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__7270e5b8c2__20060412_52122_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52174_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__182fe62a62__20060412_52174_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52194_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__29fb6d46d4__20060412_52194_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_52777_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__94d9a7e2dd__20060412_52777_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58287_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__b7db993b49__20060412_58287_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_58548_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__2706b37f6e__20060412_58548_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_59735_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__2d8066ff30__20060412_59735_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060412_61251_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__31f5a9c5cc__20060412_61251_0200_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060522_45248_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__bc8645b5b5__20060522_45248_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060522_45455_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__0cdfae259b__20060522_45455_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_43016_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__a51c0d1ee6__20060523_43016_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_45662_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__9563bdcffd__20060523_45662_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_49859_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__7885384b6b__20060523_49859_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_49942_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__f976a94096__20060523_49942_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060523_50234_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__63c12a654d__20060523_50234_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\20060530_54117_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__489b908bd1__20060530_54117_0100_PP.png,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM000895.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__7ccdd3c1f1__IM000895.jpg,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001680.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__2b081c143a__IM001680.jpg,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM001867.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__a13d80389a__IM001867.jpg,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM002726.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__4673b9dddf__IM002726.jpg,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004052.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__c581a1d8e3__IM004052.jpg,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\2\IM004053.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 2\Messidor-2+EyePac_Balanced__test__fcad5d2544__IM004053.jpg,2,Class 2
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\10153_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__2bbaa31f52__10153_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11206_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__072af04618__11206_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11211_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__c260cc1f56__11211_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\11546_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__96964f3228__11546_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\12667_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__5405891f63__12667_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\15795_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__0393b85414__15795_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\16740_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__25965a8b06__16740_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\17631_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__4c7c5d9b5c__17631_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\17631_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__c5f8640212__17631_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\18968_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__4a8d0d477d__18968_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\19018_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__a6c032159c__19018_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\1919_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__7fe0a4e021__1919_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_57761_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__0f88a98553__20051020_57761_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_62385_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__d947b549ea__20051020_62385_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051020_64007_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__7a137c10be__20051020_64007_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051205_35276_0400_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__68c047a2fa__20051205_35276_0400_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51569_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__8d5a77db0d__20051214_51569_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20051214_51701_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__165edd1b46__20051214_51701_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060411_61478_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__94deb43c43__20060411_61478_0200_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060412_62936_0200_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__5cc6760826__20060412_62936_0200_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_43196_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__cc4fcf3496__20060523_43196_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060523_48199_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__0dff1db0ad__20060523_48199_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_53271_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__e8bf2d9f16__20060530_53271_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_55724_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__1faee9eff6__20060530_55724_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\20060530_55746_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__caf3c89bd2__20060530_55746_0100_PP.png,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\22679_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__d7443dc865__22679_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23095_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__2eff0a9ebe__23095_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23604_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__818037e104__23604_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\23884_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__55cd3b652a__23884_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\2577_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__63ac5b79f9__2577_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\25872_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__33daf57486__25872_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\27653_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__a165f6443d__27653_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\28129_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__04946ec0e9__28129_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30495_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__8f2bd128cc__30495_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30495_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__d9b60d02da__30495_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\30925_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__e41cbc3f58__30925_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\31746_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__c7e2226f8d__31746_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\32711_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__61f6c00b25__32711_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\3379_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__4c97b293f8__3379_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\33840_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__49da8ef210__33840_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34445_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__0b873a722b__34445_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34863_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__b205f559db__34863_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\34918_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__91bee3a43c__34918_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\352_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__d1ad4cf743__352_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\37426_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__23269f0685__37426_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\39322_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__246dc87c81__39322_right_-_Copy.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\39322_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__246dc87c81__39322_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\41506_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__d56e9b1040__41506_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\42265_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__a2a5819120__42265_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\5139_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__c3628d33f4__5139_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7531_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__ef2e2b76d2__7531_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\7631_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__191c020473__7631_right.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\8248_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__f5183622e8__8248_left.jpeg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\IM001371.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__5dafd13ce3__IM001371.jpg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\3\IM003481.JPG,D:\Practice Projects\Disease Detection\processed_dataset\Class 3\Messidor-2+EyePac_Balanced__test__7ed93e64e2__IM003481.jpg,3,Class 3
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10904_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__9ce6ebeb01__10904_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\10904_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__9ce6ebeb01__10904_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\1138_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6a3370d70e__1138_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\1138_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6a3370d70e__1138_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11854_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__d9f6065515__11854_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\11854_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__d9f6065515__11854_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13664_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6726616e31__13664_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\13664_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6726616e31__13664_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\20051020_45110_0100_PP.png,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__19cefcc0b4__20051020_45110_0100_PP.png,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\2031_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__97a30af04c__2031_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\2031_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__97a30af04c__2031_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22568_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__446a4033e4__22568_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\22568_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__446a4033e4__22568_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23604_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__5b0c6bff79__23604_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\23604_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__5b0c6bff79__23604_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24010_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__61439afae8__24010_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24010_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__61439afae8__24010_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24853_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__de86618b12__24853_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\24853_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__de86618b12__24853_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\29058_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6d7c712324__29058_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\29058_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6d7c712324__29058_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30549_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__14d57ed800__30549_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\30549_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__14d57ed800__30549_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\31746_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__cd276f7391__31746_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33080_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__6858d05509__33080_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33236_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__97a2935d98__33236_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\33906_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__b6d39f3221__33906_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\35112_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__94317857bf__35112_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\37834_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__7e1558d732__37834_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\38407_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__5e590bcabe__38407_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\39353_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__02f9da71f9__39353_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4005_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__7289a5adb3__4005_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4005_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__7289a5adb3__4005_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40405_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__2bb77c3ca7__40405_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\40917_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__f70bfa4449__40917_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\42815_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__00135f42e6__42815_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\43050_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__fcfa6d87e0__43050_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4531_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__a44078695d__4531_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4531_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__a44078695d__4531_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4793_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__8be998a823__4793_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\4793_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__8be998a823__4793_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\6719_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__4e7a46e41f__6719_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\6719_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__4e7a46e41f__6719_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7531_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__472c78278c__7531_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7531_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__472c78278c__7531_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7821_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__dc1ea3ead3__7821_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7821_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__dc1ea3ead3__7821_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__1cb32a9364__7945_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__1cb32a9364__7945_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__ea9b8f78b7__7945_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\7945_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__ea9b8f78b7__7945_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\8090_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__48460d3e3a__8090_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\8090_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__48460d3e3a__8090_left.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9311_right - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__ae2752ff3a__9311_right_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\9311_right.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__ae2752ff3a__9311_right.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\936_left - Copy.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__38c6b45fd7__936_left_-_Copy.jpeg,4,Class 4
-D:\Practice Projects\Disease Detection\dataset\Messidor-2+EyePac_Balanced\4\936_left.jpeg,D:\Practice Projects\Disease Detection\processed_dataset\Class 4\Messidor-2+EyePac_Balanced__test__38c6b45fd7__936_left.jpeg,4,Class 4
+image_path,source_dataset,original_label,disease_name,class_id,split
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_114_5711178.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_28_7296137.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\281.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2846_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1247_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\311.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\096.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_124_11722.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3442_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\284.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1386.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2116.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_174_2440424.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\415.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11435_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\81_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1452_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_0_4517448.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_293.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1877.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2512.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11283_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10761_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3019.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10987_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10988_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2463_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10579_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11182_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2199.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\536.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_258_6391320.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1916.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_940.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\306.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2553.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\005.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2750_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2523_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11487_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_251_8769594.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_023.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11080_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_204_7650115.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_352_2938767.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2489_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\4290_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\186.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11527_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3052_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3343_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_240_968094.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10078_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1000_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_11.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_113_3440509.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3260_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3425_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_401_6044320.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2149_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3417_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1092.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_377_8059232.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10745_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\629.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2765.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10563_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2975_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1024_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1059_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_534.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10415_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2841_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3315_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\078.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10504_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1027_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_327.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1426_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_086.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\84_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1419_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10457_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_357_8304812.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3090_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10183_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2162.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1465_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_242_7073642.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_061.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\226.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10969_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2692.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_355_9019995.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2189_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_43_5688154.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_66_9729796.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_393_746807.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1215_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3001_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2145_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\271.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_287_8369950.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_227.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\374.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_283_6275047.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\447.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2499_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2673_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11370_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_20_7421444.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_357_7848484.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2469_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\146.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_26_1879474.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_111.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_246_1688391.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_372_153571.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1220_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_265.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\471.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_537.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_079.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_248_1971812.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_044.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\641.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1035_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\026.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\624.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2680_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2179_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_276_1824789.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\241.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1075_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\325.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2485_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2732_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_791.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3051_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2473.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\508.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3369_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2622_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1241.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2354_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10823_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10124_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_182_8895927.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_349_4292233.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_372_5630593.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3348_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1525.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3102_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2203_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11428_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_144.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2735_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1035_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_262_7895370.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\8_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10873_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1469_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_367_403099.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_366_983964.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\115.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1415_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\112_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\489.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_360.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_164.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10761_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1351.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3321_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3275_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2182_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2432_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3356_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10569_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\504.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_032.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3251_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_155_1218981.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_088.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10873_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3171_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2704_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1102_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_39_2936171.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2366.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2383_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_269_5232883.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2984.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3080_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_60_2561089.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11091_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\343.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10492_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2177_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1327_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3137.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3259_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1958.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\402.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10339_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_066.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1898.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2660_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_351_7651498.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_351_6945231.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_71_9012457.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10646_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\602.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10833_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10644_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\265.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_143_1247400.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3227_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_91_7118539.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1243.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2599_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2246_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_310_4668441.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11417_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10129_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_883.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_295_8218216.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_307_2047689.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_372.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10650_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_655.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\369.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\023.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1543.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1334_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_68_6182618.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_255_7810419.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1926.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_170_1001041.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_349_2751142.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1332.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10141_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\038.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3013_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\2063_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10585_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2142_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_54.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_227_2716085.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10975_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2981.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10945_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_043.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_59_1911492.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2128_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_185_1242583.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_019.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1625.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2910_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_040.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2565_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10109_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3312_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3173_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_358_8144492.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3354_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2588_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1526.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\318.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\2020_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1279_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\809_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10099_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3175_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_249_6890690.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2786_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\196.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1334_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2410_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2407.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2815_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1330_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11229_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2838_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2827_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_302_3915909.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_96_5515894.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_114.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2551.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\238_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2835_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_231_3245768.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\297.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_142_7918627.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2206_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\2048_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\042.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11581_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_080.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_135_7789155.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_16_1907643.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10031_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\532.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_63.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10695_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2737_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_379_3919297.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1004.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3009_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3298_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1923.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_170_5458800.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1011_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_082.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2883_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2605.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3117_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1213.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_359_6265965.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_036.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1144_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_314_8935717.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_180_6449017.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2512_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_129_2098170.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1403.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_376_9321900.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11319_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2234_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_241_7236668.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_69_5362173.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\262.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2141_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_324_9920354.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2523.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_8_5210275.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_35_369215.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_251_1089143.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_158_6990173.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\317.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3129.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3054_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1070_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3062_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2349_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1115_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3377_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_300_1946959.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_139_583821.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_45_6457682.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2359_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_289_683957.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_48_1110786.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\462.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_105_5646774.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1248_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_010.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_468.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_41_7018471.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2050.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1087.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1497_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2155_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2902.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3155_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_185_7271854.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2320.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1452.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3077_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3243_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\535.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_13_697490.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1255.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1799.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_177_7654905.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11261_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10672_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10266_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10503_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_61_1340813.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\559.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2791_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3023.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_626.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2482_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2794_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3275_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_10_2555943.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_383_4165819.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\449.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10170_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_331_2978484.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2159_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_249_4807123.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2426_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1096_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10407_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_59_2574195.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10029_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\540.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1133_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3262_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10579_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_897.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2151.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_67_4921455.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\105.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_34_2026427.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2134_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10688_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2633_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_015.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2888.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10897_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_317_4205093.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10160_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_659.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_1_7703314.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\088.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1842.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2709.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2525_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_284_7380745.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1297_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11435_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_64_3530889.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_494.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_57_1814825.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\546.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1081.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10429_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2504_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_42_7486921.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2279.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10244_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2418_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\362.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2138_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\136.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10184_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10409_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1490_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\071.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2784.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1590.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2761_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2262_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2667_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11438_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3168.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11529_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_186_3309365.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3272_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_158_2964657.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_104_4607170.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3355_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2767.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2992_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\313.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3024.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_267_8024092.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2304.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\537.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3052_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11437_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2368_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_272_9782017.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_315_1312896.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_49.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1100_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1496_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_490.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1589.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_292_3819069.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_45_7744209.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_20.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2872_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\068.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_163_6585488.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2552.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_912.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1024_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_318_9413163.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1180_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_374_8172135.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2488_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3203_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10333_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2201.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2441_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_155_4972319.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11273_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2484_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_879.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11008_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_395_3509756.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3131_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1179_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1188.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_145_6931784.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10230_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10310_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2833_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_201_2875079.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_281_5275221.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2827_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_166_6232447.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1261_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_252_4692803.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_90_7427306.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10156_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1961.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_227_498752.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2065.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2806.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_289_8793154.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3226_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3025_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2415_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_3_6499308.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2813_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_25_9900235.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_001.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\625_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2742_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11299_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10782_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2534.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_23_8081299.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_198_3243264.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_290_9207731.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3018_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\606.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3357_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2861.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\141.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_334_6427863.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1985_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2217_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\072.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_130_3806382.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11122_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10943_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1222_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\060.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1468_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1080.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2798_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3253_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1301_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2587_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1093_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_234_5883794.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1579.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2985_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_209_2468249.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11305_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\548.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1377_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1287_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2346_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\555.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_399_7128170.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1232_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3403_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_106_1940079.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2576_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10748_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_72_6009084.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_460.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\565.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3117.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1436_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11474_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1351_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3282_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2213_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1902.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_114_3613830.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_239_3022913.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_038.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10069_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_197_9225516.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2137_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1204_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_2_1600849.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2811_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2126_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11203_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10732_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_78_8248707.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_191_6264437.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2151_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1267_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11003_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\059.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\336.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10061_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2718_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_229_5944044.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2532.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2364.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\246.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_358_2954052.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10003_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11007_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2827.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1206_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11243_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_211_3296609.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2230.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1049_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3202_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\650.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2239_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3408_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1623.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2844_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\750_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_245_498355.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_116_1943666.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_183_2869065.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_121_3847336.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11114_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2384_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2353_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2825.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_19_7932720.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11425_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3438_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10104_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2231_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2500_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_255.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_225_247208.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1297_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2466_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10566_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\542.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11058_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2708.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2219_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_375_1575212.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_150_8876899.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11187_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_156_6418009.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_820.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11365_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3420_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3417_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1875.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3064.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_49_7277741.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1865.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3355_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_61_2475173.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10250_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_130_4811607.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\4637_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1368.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_44_8713938.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1330_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2345_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\534.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\820_left.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2782_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10398_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\039.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_341_8692985.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2897_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1161_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2610_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11408_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10177_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11316_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2689_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_115_1763401.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10566_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2577.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2661.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11340_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_110_5076150.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_542.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\314.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\373.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1935.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2526.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2761_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\108_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10785_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10954_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_261_6037248.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_253_8425650.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_292_8455118.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10969_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11115_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3306_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_228_775182.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_39_9762209.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_390_5579051.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\111.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2535_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_395_8303850.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_79_7226209.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_183_3784240.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1425_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10182_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2514.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11464_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1077.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_345_2495680.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_297_2792482.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11249_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_954.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_98_763638.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_271_8355519.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2100_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_361_2261122.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_068.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2380_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11382_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\250.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\337.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2828.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3367_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_104_4154423.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\470.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_164_5685997.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2422_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_227_9889754.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1482_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_60_3287251.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2892_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10184_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_326_3620282.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\649.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1366.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\229.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_145_9843041.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11541_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\011.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10389_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_22_1469685.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_703.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10710_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2237_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2110.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_1_4540560.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\486.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_260_4814230.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2359_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10550_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_247_651494.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2576.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_399_8219023.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1489_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_252_4705064.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_63_5036155.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11482_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2698.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_350_3536071.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2652.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3411_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\055.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_228_4231065.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11005_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_41_6704276.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_151_3685359.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10489_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_317_2537690.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10218_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11316_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1052_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_58_180622.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_130_7837321.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_380_4081438.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\018.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1267_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2064.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10510_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2640_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_254_8727190.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1102_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_72_3474284.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_008.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11124_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_314_3594023.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_3170.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_47_6549840.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\525.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2852_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_342_2775386.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11387_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3356_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11161_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_140_1534199.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1498.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11164_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1492_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10883_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\562.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1266_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10720_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_391_1332495.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3016_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\342.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10398_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1494_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\119_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\2135_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10014_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2493_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_518.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3393_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\346.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10326_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2562.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\24_right.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2813_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_12_5295071.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11581_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2730_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2039.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_374_8613138.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1359.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_386.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\454.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1714.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3010_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_084.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_047.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1273_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_338_7660594.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10058_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1436_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\209.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_335_9176239.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_59_9153525.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_446.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_945.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\cataract_082.png,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_364_7596223.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1281_left.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_190_7244239.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_249.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\353.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2341_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\176.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10153_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3290_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\581.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_388_7162342.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\_378_2183024.jpg,Eye Disease detection,cataract,Cataract,1,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\2395_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2985.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_148_3847249.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3117_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\458.jpg,GlaucomaFundusImaging/ORIGA,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3232_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10777_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1256_right.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3244_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11023_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_061.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11319_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_2710.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_363_2466087.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_1696.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\Glaucoma_031.png,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\_44_8455804.jpg,Eye Disease detection,glaucoma,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10166_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\1055_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3163_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\10792_left.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\diabetic_retinopathy\11542_right.jpeg,Eye Disease detection,diabetic_retinopathy,Diabetic Retinopathy,2,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3170_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_236.jpg,GlaucomaFundusImaging/G1020,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\370.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3380_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3207_right.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\G1020\Images\image_110.jpg,GlaucomaFundusImaging/G1020,1,Glaucoma,3,test
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\normal\3017_left.jpg,Eye Disease detection,normal,Normal,0,test
+d:\Practice Projects\Disease Detection\dataset\GlaucomaFundusImaging\ORIGA\Images\185.jpg,GlaucomaFundusImaging/ORIGA,0,Normal,0,test

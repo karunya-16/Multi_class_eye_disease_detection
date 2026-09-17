@@ -1,0 +1,213 @@
+{
+  "generated_at": "2026-09-08T06:44:31.167910+00:00",
+  "camera_root": "d:\\Practice Projects\\Disease Detection\\dataset\\Camera captured eye Dataset",
+  "structure": {
+    "splits": {
+      "train": {
+        "images": 1385,
+        "labels_matched": 1385
+      },
+      "val": {
+        "images": 396,
+        "labels_matched": 396
+      },
+      "test": {
+        "images": 198,
+        "labels_matched": 198
+      }
+    },
+    "total_images": 1979,
+    "config_files_found": [],
+    "data_yaml_present": false,
+    "ultralytics_cache": {
+      "train": {
+        "version": "1.0.3",
+        "results": [
+          1385,
+          0,
+          0,
+          197,
+          1385
+        ],
+        "n_indexed_labels": 1188,
+        "n_msgs": 197,
+        "sample_im_file": "C:\\Users\\KIIT\\Desktop\\ELI_DEMO\\ROBO_FLOW\\split_dataset\\train\\images\\PHOTO-2023-07-27-12-08-36_jpg.rf.5e2b7aae13bde64a4613048f6b1a8aef.jpg",
+        "class1_exceeds_nc1_msgs": 197
+      },
+      "val": {
+        "version": "1.0.3",
+        "results": [
+          396,
+          0,
+          0,
+          38,
+          396
+        ],
+        "n_indexed_labels": 358,
+        "n_msgs": 38,
+        "sample_im_file": "C:\\Users\\KIIT\\Desktop\\ELI_DEMO\\ROBO_FLOW\\split_dataset\\val\\images\\PHOTO-2023-07-27-12-41-26_jpg.rf.0c54af79d765c863475f99265175fc10.jpg",
+        "class1_exceeds_nc1_msgs": 38
+      },
+      "test": {
+        "version": "1.0.3",
+        "results": [
+          198,
+          0,
+          0,
+          29,
+          198
+        ],
+        "n_indexed_labels": 169,
+        "n_msgs": 29,
+        "sample_im_file": "C:\\Users\\KIIT\\Desktop\\ELI_DEMO\\ROBO_FLOW\\split_dataset\\test\\images\\PHOTO-2023-07-27-12-08-36-1-_jpg.rf.d68c76c789f00adcbf3ce983e4a00cdf.jpg",
+        "class1_exceeds_nc1_msgs": 29
+      }
+    }
+  },
+  "class_ids_in_labels": {
+    "0": 1719,
+    "1": 265
+  },
+  "class_distribution_images_primary": {
+    "1": 264,
+    "0": 1715
+  },
+  "filename_families": {
+    "image_* (Roboflow-renamed PNG sources)": {
+      "1": 259,
+      "0": 162
+    },
+    "i_* (sequential crop names)": {
+      "0": 1549
+    },
+    "PHOTO-YYYY-MM-DD (WhatsApp/camera timestamp)": {
+      "0": 8,
+      "1": 6
+    }
+  },
+  "image_properties": {
+    "formats": {
+      "JPEG": 1979
+    },
+    "aspect_buckets": {
+      "landscape(>1)": 1270,
+      "square(~1:1)": 675,
+      "portrait(<1)": 34
+    },
+    "unique_resolutions": 518,
+    "top_resolutions": [
+      {
+        "width": 120,
+        "height": 80,
+        "count": 568
+      },
+      {
+        "width": 640,
+        "height": 426,
+        "count": 46
+      },
+      {
+        "width": 56,
+        "height": 56,
+        "count": 37
+      },
+      {
+        "width": 54,
+        "height": 54,
+        "count": 35
+      },
+      {
+        "width": 55,
+        "height": 55,
+        "count": 34
+      },
+      {
+        "width": 58,
+        "height": 58,
+        "count": 32
+      },
+      {
+        "width": 57,
+        "height": 57,
+        "count": 32
+      },
+      {
+        "width": 59,
+        "height": 59,
+        "count": 31
+      },
+      {
+        "width": 60,
+        "height": 60,
+        "count": 30
+      },
+      {
+        "width": 53,
+        "height": 53,
+        "count": 30
+      }
+    ],
+    "width_min_median_max": [
+      41,
+      120,
+      640
+    ],
+    "height_min_median_max": [
+      41,
+      80,
+      640
+    ],
+    "near_grayscale": 41,
+    "whatsapp_photo_filenames": 14,
+    "corrupt_unreadable": 0
+  },
+  "yolo": {
+    "images_with_boxes": 1979,
+    "fully_valid_label_files": 1979,
+    "images_with_multiple_boxes": 5,
+    "suitable_for_yolo_detect": true,
+    "format": "YOLOv5/YOLOv8 detect txt (class xc yc w h normalized)"
+  },
+  "overlap_with_existing_5885": {
+    "existing_metadata_rows": 5885,
+    "exact_filename_matches": 0,
+    "stripped_stem_matches": 102,
+    "md5_content_matches": 0,
+    "filename_match_examples": [],
+    "stem_match_examples": [
+      "image_0",
+      "image_1",
+      "image_10",
+      "image_103",
+      "image_104",
+      "image_105",
+      "image_106",
+      "image_107",
+      "image_11",
+      "image_110",
+      "image_111",
+      "image_112",
+      "image_113",
+      "image_114",
+      "image_115",
+      "image_12",
+      "image_120",
+      "image_121",
+      "image_123",
+      "image_124"
+    ],
+    "md5_match_examples": []
+  },
+  "conclusions": {
+    "A_class_0": "Cataract / opaque-lens eye region. Evidence: (a) YOLO class_id 0 in label txt files; (b) bounding boxes on color image_* and WhatsApp PHOTO-* samples enclose iris/pupil with milky-white lens opacity; (c) all 1549 i_* files are labeled only class 0. No data.yaml names list is present in this copy.",
+    "B_class_1": "Normal / clear-eye region. Evidence: (a) YOLO class_id 1 in label txt files; (b) bounding boxes on image_* and PHOTO-* samples enclose a clear iris and dark pupil; (c) Ultralytics labels.cache msgs state 'Label class 1 exceeds dataset class count 1', proving class 1 exists in labels even though a prior cache was built with nc=1. No data.yaml names list is present in this copy.",
+    "C_usable_for_camera_eye_detection_stage": true,
+    "C_detail": "YES, with caveats, for a camera-image eye localization / 2-class (cataract vs normal appearance) detector. Layout is YOLO detect (train/val/test + images/labels + normalized xywh). Images are external camera/clinical close-ups of the eye, not fundus photographs. Restore data.yaml (nc: 2 and names) before training. Do not treat this as a generic face/eye-vs-background detector: almost every image already is an eye close-up.",
+    "D_can_directly_train_4class_disease_classifier": false,
+    "D_detail": "NO. It cannot directly train the existing 4-class EfficientNetV2-B0 disease classifier. That model is validated on retinal fundus images with classes Normal, Cataract, Diabetic Retinopathy, Glaucoma. This dataset is 2-class external-eye object detection, different imaging modality, and has no DR/glaucoma fundus labels.",
+    "E_overlap_with_existing_dataset": false,
+    "E_detail": "NO overlapping image content. MD5 matches=0, exact filename matches=0. 102 stripped-stem collisions (e.g. image_0) are generic names also used by G1020/ORIGA, not the same pixels."
+  },
+  "analysis_pass": true,
+  "next_step": "Obtain or reconstruct data.yaml with nc: 2 and official names for class 0 and class 1 (this copy has none). Then, if the product still needs a camera-image eye stage, train a separate YOLO detector on these boxes \u2014 do not retrain or mix this data into EfficientNetV2-B0 / the 5885 fundus set."
+}

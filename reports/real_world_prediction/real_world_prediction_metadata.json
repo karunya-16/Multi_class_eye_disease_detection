@@ -1,0 +1,22 @@
+{
+  "model_name": "efficientnetv2_b0_4class_best",
+  "model_path": "d:\\Practice Projects\\Disease Detection\\model\\efficientnetv2_b0_4class_best.keras",
+  "image_size": [
+    224,
+    224
+  ],
+  "class_mapping": {
+    "0": "Normal",
+    "1": "Cataract",
+    "2": "Diabetic Retinopathy",
+    "3": "Glaucoma"
+  },
+  "preprocessing": "PIL Image.open -> convert RGB -> resize 224x224 BILINEAR -> np.asarray float32 -> expand_dims batch. No external /255: model contains internal EfficientNetV2 Rescaling layer.",
+  "gradcam_target_layer": "top_activation",
+  "final_verified_test_accuracy": 0.8494,
+  "final_verified_glaucoma_recall": 0.5773,
+  "final_verified_macro_roc_auc": 0.9591,
+  "test_images": 883,
+  "correct_predictions": 750,
+  "incorrect_predictions": 133
+}

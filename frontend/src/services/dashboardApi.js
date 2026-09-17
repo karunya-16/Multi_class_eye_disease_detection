@@ -59,14 +59,14 @@ export async function fetchDashboardAnalytics({
   signal,
 } = {}) {
   const params = {};
-  if (Number.isFinite(Number(predictedClass))) params.predicted_class = Number(predictedClass);
-  else if (predictedLabel) params.predicted_label = predictedLabel;
+  if (Number.isFinite(Number(predictedClass))) params.class_id = Number(predictedClass);
+  else if (predictedLabel) params.disease = predictedLabel;
   if (startDate) params.start_date = startDate;
   if (endDate) params.end_date = endDate;
 
   let payload;
   try {
-    const response = await axios.get(`${getApiBaseUrl()}/analytics/dashboard`, {
+    const response = await axios.get(`${getApiBaseUrl()}/dashboard`, {
       params,
       signal,
       timeout: 20000,
@@ -85,17 +85,21 @@ export async function fetchDashboardAnalytics({
 
   const classDistribution = CLASS_NAMES.map((name, index) => {
     const match = payload.class_distribution.find(
-      (item) => Number(item?.predicted_class) === index || item?.predicted_label === name,
+      (item) => Number(item?.class_id) === index || item?.disease === name,
     );
     return {
+      class_id: index,
+      disease: name,
       predicted_class: index,
       predicted_label: name,
       count: asCount(match?.count),
     };
   });
 
+  const total = asCount(payload.total_predictions ?? payload.total_analyses);
+
   return {
-    totalAnalyses: asCount(payload.total_analyses),
+    totalAnalyses: total,
     recentAnalysisCount: asCount(payload.recent_analysis_count),
     recentWindowDays: Number(payload.recent_window_days) || 7,
     averageConfidence: asOptionalNumber(payload.average_confidence),

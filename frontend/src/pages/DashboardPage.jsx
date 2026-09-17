@@ -154,14 +154,14 @@ export default function DashboardPage() {
 
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         <label className="grid gap-1 text-sm font-medium text-navy">
-          Predicted class
+          Predicted disease
           <select
             className="min-h-11 rounded-lg border border-border bg-card px-3 text-sm text-navy focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
             value={predictedLabel}
             onChange={(event) => setPredictedLabel(event.target.value)}
-            aria-label="Filter dashboard by predicted class"
+            aria-label="Filter dashboard by predicted disease"
           >
-            <option value="">All classes</option>
+            <option value="">All diseases</option>
             {CLASS_NAMES.map((name) => (
               <option key={name} value={name}>
                 {name}
@@ -280,7 +280,7 @@ export default function DashboardPage() {
             <Card>
               <CardHeader>
                 <CardTitle>Class distribution</CardTitle>
-                <CardDescription>Number of stored predictions for Class 0 through Class 4.</CardDescription>
+                <CardDescription>Number of stored predictions for Normal, Cataract, Diabetic Retinopathy, and Glaucoma.</CardDescription>
               </CardHeader>
               <ClassDistributionChart data={stats.classDistribution} />
             </Card>
@@ -344,7 +344,7 @@ export default function DashboardPage() {
                     <thead className="border-b border-border text-navy">
                       <tr>
                         <th className="px-2 py-3 font-semibold">Date / time</th>
-                        <th className="px-2 py-3 font-semibold">Predicted class</th>
+                        <th className="px-2 py-3 font-semibold">Predicted disease</th>
                         <th className="px-2 py-3 font-semibold">Model Confidence</th>
                         <th className="px-2 py-3 font-semibold"><span className="sr-only">Actions</span></th>
                       </tr>
@@ -353,7 +353,7 @@ export default function DashboardPage() {
                       {recentItems.map((item) => (
                         <tr key={item.id} className="border-b border-border last:border-b-0">
                           <td className="px-2 py-3 text-muted">{formatAnalysisTime(item.created_at)}</td>
-                          <td className="px-2 py-3 font-semibold text-navy">{item.predicted_label}</td>
+                          <td className="px-2 py-3 font-semibold text-navy">{item.disease}</td>
                           <td className="px-2 py-3 text-navy">
                             {Number(item.confidence_percentage).toFixed(2)}%
                           </td>
@@ -371,7 +371,7 @@ export default function DashboardPage() {
                   {recentItems.map((item) => (
                     <li key={item.id} className="rounded-xl border border-border p-4">
                       <p className="text-sm text-muted">{formatAnalysisTime(item.created_at)}</p>
-                      <p className="mt-1 text-lg font-semibold text-navy">{item.predicted_label}</p>
+                      <p className="mt-1 text-lg font-semibold text-navy">{item.disease}</p>
                       <p className="text-sm text-muted">
                         Model Confidence {Number(item.confidence_percentage).toFixed(2)}%
                       </p>

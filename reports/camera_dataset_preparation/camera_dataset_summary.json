@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-09-13T16:39:49.096952+00:00",
+  "status": "PASS",
+  "source_image_counts": {
+    "train": 1385,
+    "val": 396,
+    "test": 198
+  },
+  "source_label_counts": {
+    "train": 1385,
+    "val": 396,
+    "test": 198
+  },
+  "source_total_images": 1979,
+  "valid_label_files": 1979,
+  "invalid_or_incomplete_label_files": 0,
+  "invalid_yolo_box_rows": 0,
+  "empty_labels": 0,
+  "missing_labels": 0,
+  "unmatched_label_files": 0,
+  "images_with_multiple_boxes": 5,
+  "source_box_class_counts": {
+    "0": 1719,
+    "1": 265
+  },
+  "generated_crop_attempts": 1984,
+  "accepted_crop_counts_total": 1870,
+  "rejected_crop_counts": 114,
+  "final_class_distribution": {
+    "Normal": 258,
+    "Cataract": 1612
+  },
+  "train_val_test_distribution": {
+    "train": {
+      "Normal": 191,
+      "Cataract": 1110
+    },
+    "val": {
+      "Normal": 38,
+      "Cataract": 341
+    },
+    "test": {
+      "Normal": 29,
+      "Cataract": 161
+    }
+  },
+  "class_mapping": {
+    "0": "Cataract",
+    "1": "Normal"
+  },
+  "overlap_result": {
+    "existing_metadata_rows": 5885,
+    "source_camera_md5_matches": 0,
+    "prepared_crop_md5_matches": 0,
+    "content_overlap_with_5885": false,
+    "source_match_examples": [],
+    "prepared_match_examples": []
+  },
+  "processing_configuration": {
+    "pad_ratio": 0.1,
+    "pad_min_px": 2,
+    "min_crop_side_px": 16,
+    "min_crop_area_px": 256,
+    "min_mean_brightness": 8.0,
+    "max_mean_brightness": 247.0,
+    "min_structure_std": 3.0,
+    "min_laplacian_var": 5.0,
+    "jpeg_quality": 95,
+    "resize_to_224": false,
+    "keep_source_splits": true,
+    "shuffle_all_images": false,
+    "class_mapping": {
+      "0": "Cataract",
+      "1": "Normal"
+    }
+  },
+  "duplicate_checks": {
+    "accepted_files_hashed": 1870,
+    "unique_hashes": 1870,
+    "same_split_duplicate_groups": 0,
+    "cross_split_duplicate_groups": 0,
+    "cross_split_examples": [],
+    "same_split_examples": []
+  },
+  "validation_checks": {
+    "train_val_test_directories_exist": true,
+    "only_normal_and_cataract_present": true,
+    "every_generated_crop_has_metadata": true,
+    "no_corrupted_generated_crops": true,
+    "no_invalid_class_ids": true,
+    "no_cross_split_duplicate_image_hashes": true,
+    "source_split_boundaries_preserved": true,
+    "existing_5885_image_dataset_untouched": true,
+    "source_audit_counts_match_previous": true,
+    "accepted_files_match_metadata": true
+  },
+  "protected_file_mismatches": [],
+  "corrupt_generated": [],
+  "missing_metadata_for_files": [],
+  "prepared_dir": "d:\\Practice Projects\\Disease Detection\\camera_dataset_prepared",
+  "existing_5885_image_dataset_modified": "NO",
+  "existing_efficientnetv2_b0_modified": "NO",
+  "existing_84_94_accuracy_modified": "NO",
+  "next_step": "NEXT STEP = train/evaluate a separate camera-image classifier using only the prepared camera dataset, while keeping the existing fundus model completely separate."
+}

@@ -1,0 +1,9 @@
+source_dataset,disease_name,class_id,total,train,validation,test
+Eye Disease detection,Normal,0,1074,762,151,161
+Eye Disease detection,Cataract,1,1038,727,155,156
+Eye Disease detection,Diabetic Retinopathy,2,1098,768,165,165
+Eye Disease detection,Glaucoma,3,1005,681,161,163
+GlaucomaFundusImaging/G1020,Normal,0,724,502,114,108
+GlaucomaFundusImaging/G1020,Glaucoma,3,296,225,33,38
+GlaucomaFundusImaging/ORIGA,Normal,0,482,332,77,73
+GlaucomaFundusImaging/ORIGA,Glaucoma,3,168,122,27,19

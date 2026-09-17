@@ -1,0 +1,56 @@
+{
+  "test_loss": 0.4263,
+  "test_accuracy": 0.8381,
+  "per_class": [
+    {
+      "class_id": 0,
+      "disease_name": "Normal",
+      "n_samples": 342,
+      "n_correct": 315,
+      "accuracy": 0.9211,
+      "precision": 0.7664,
+      "recall": 0.9211,
+      "f1_score": 0.8367
+    },
+    {
+      "class_id": 1,
+      "disease_name": "Cataract",
+      "n_samples": 156,
+      "n_correct": 144,
+      "accuracy": 0.9231,
+      "precision": 0.878,
+      "recall": 0.9231,
+      "f1_score": 0.9
+    },
+    {
+      "class_id": 2,
+      "disease_name": "Diabetic Retinopathy",
+      "n_samples": 165,
+      "n_correct": 157,
+      "accuracy": 0.9515,
+      "precision": 0.9515,
+      "recall": 0.9515,
+      "f1_score": 0.9515
+    },
+    {
+      "class_id": 3,
+      "disease_name": "Glaucoma",
+      "n_samples": 220,
+      "n_correct": 124,
+      "accuracy": 0.5636,
+      "precision": 0.8671,
+      "recall": 0.5636,
+      "f1_score": 0.6832
+    }
+  ],
+  "macro_avg": {
+    "precision": 0.8658,
+    "recall": 0.8398,
+    "f1-score": 0.8428
+  },
+  "weighted_avg": {
+    "precision": 0.8458,
+    "recall": 0.8381,
+    "f1-score": 0.8311
+  }
+}

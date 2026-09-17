@@ -1,0 +1,3 @@
+duplicate_path,original_path,hash
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\1415_right.jpg,d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\1415_right.jpg,e2d70a8954bcdd55ef63989a9a5b84c3
+d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\glaucoma\625_left.jpg,d:\Practice Projects\Disease Detection\dataset\Eye Disease detection\cataract\625_left.jpg,06f4c9b0835adcdddc48252f45f6480e

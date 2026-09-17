@@ -13,8 +13,7 @@ import { Alert, AlertDescription } from '@/components/ui/alert';
 import { Button } from '@/components/ui/button';
 import { useExplain } from '@/hooks/useExplain';
 import { usePrediction } from '@/hooks/usePrediction';
-import { useSaveAnalysis } from '@/hooks/useAnalysisHistory';
-import { GRADCAM_LOADING_MESSAGE, LOADING_MESSAGES } from '@/lib/constants';
+import { GRADCAM_LOADING_MESSAGE, LOADING_MESSAGES, MODEL_SCOPE_NOTE } from '@/lib/constants';
 import { analysisFormSchema } from '@/lib/validation';
 import { PredictionApiError } from '@/services/predictionApi';
 
@@ -38,7 +37,6 @@ export default function AnalysisPage() {
   const queryClient = useQueryClient();
   const explain = useExplain();
   const prediction = usePrediction();
-  const saveAnalysis = useSaveAnalysis();
 
   function abortInFlight() {
     abortRef.current?.abort();
@@ -58,7 +56,7 @@ export default function AnalysisPage() {
 
   const file = form.watch('file');
   const result = explain.data || prediction.data;
-  const requestPending = explain.isPending || prediction.isPending || saveAnalysis.isPending;
+  const requestPending = explain.isPending || prediction.isPending;
   const analyzingFirstPass = requestPending && !result;
   const retryingGradCam = explain.isPending && Boolean(result);
 
@@ -132,28 +130,16 @@ export default function AnalysisPage() {
     toast.error(message);
   }
 
-  async function persistCompletedResult(result, imageFile, signal) {
-    try {
-      const saved = await saveAnalysis.mutateAsync({
-        file: imageFile,
-        requestId: requestIdRef.current,
-        prediction: result,
-        gradcam: result?.gradcam_available === true ? result.gradcam : null,
-        signal,
-      });
-      setHistoryId(saved.id);
-      queryClient.invalidateQueries({ queryKey: ['analysis-history'] });
-      queryClient.invalidateQueries({ queryKey: ['dashboard'] });
-      return saved.id;
-    } catch (error) {
-      if (error?.name === 'AbortError') return null;
-      toast.error(
-        error instanceof PredictionApiError
-          ? error.message
-          : 'The result is available, but it could not be saved to history.',
-      );
+  function rememberSaved(result) {
+    const savedId = Number(result?.history_id);
+    if (!Number.isFinite(savedId) || savedId <= 0) {
+      toast.error('The result is available, but it could not be saved to history.');
       return null;
     }
+    setHistoryId(savedId);
+    queryClient.invalidateQueries({ queryKey: ['analysis-history'] });
+    queryClient.invalidateQueries({ queryKey: ['dashboard'] });
+    return savedId;
   }
 
   const onSubmit = form.handleSubmit(async (values) => {
@@ -172,9 +158,9 @@ export default function AnalysisPage() {
         signal: controller.signal,
       });
       toast.success(
-        `${explained.predicted_label} · Model Confidence ${Number(explained.confidence_percentage).toFixed(2)}%`,
+        `${explained.disease} · Model Confidence ${Number(explained.confidence_percentage).toFixed(2)}%`,
       );
-      await persistCompletedResult(explained, values.file, controller.signal);
+      rememberSaved(explained);
       if (explained.gradcam_available !== true) {
         const message =
           explained.gradcam_error ||
@@ -190,9 +176,9 @@ export default function AnalysisPage() {
           signal: controller.signal,
         });
         toast.success(
-          `${predicted.predicted_label} · Model Confidence ${Number(predicted.confidence_percentage).toFixed(2)}%`,
+          `${predicted.disease} · Model Confidence ${Number(predicted.confidence_percentage).toFixed(2)}%`,
         );
-        await persistCompletedResult(predicted, values.file, controller.signal);
+        rememberSaved(predicted);
         const message =
           'The prediction succeeded, but Grad-CAM could not be generated for this image.';
         setGradcamError(message);
@@ -220,7 +206,7 @@ export default function AnalysisPage() {
         file,
         signal: controller.signal,
       });
-      await persistCompletedResult(explained, file, controller.signal);
+      rememberSaved(explained);
       if (explained.gradcam_available === true) {
         toast.success('Grad-CAM generated');
       } else {
@@ -250,9 +236,11 @@ export default function AnalysisPage() {
       <div>
         <h1 className="text-3xl font-bold tracking-tight text-navy">Analysis</h1>
         <p className="mt-2 max-w-2xl text-muted">
-          Upload a retinal fundus image to obtain a 5-class screening prediction from the
-          existing EfficientNetV2-B0 API, then view Grad-CAM explainability.
+          Upload a retinal fundus image, or a camera photo of one, for a screening
+          prediction (Normal, Cataract, Diabetic Retinopathy, or Glaucoma). Unsuitable
+          images are rejected with: Please upload a clear image.
         </p>
+        <p className="mt-2 max-w-2xl text-sm text-muted">{MODEL_SCOPE_NOTE}</p>
       </div>
 
       <form onSubmit={onSubmit} className="space-y-5" noValidate>

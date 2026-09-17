@@ -1,11 +1,10 @@
 import { useId, useState } from 'react';
-import { Upload } from 'lucide-react';
+import { Camera, Upload } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { CAMERA_CAPTURE, IMAGE_ACCEPT } from '@/lib/uploadFormats';
 import { imageFileSchema } from '@/lib/validation';
 import { formatFileSize, cn } from '@/lib/utils';
-
-const ACCEPT = '.jpg,.jpeg,.png,image/jpeg,image/png';
 
 export default function ImageUploader({
   file,
@@ -45,60 +44,83 @@ export default function ImageUploader({
   return (
     <Card>
       <CardHeader>
-        <CardTitle id="upload-heading">Upload fundus image</CardTitle>
-        <CardDescription>JPG, JPEG, or PNG. One eye photograph per analysis.</CardDescription>
+        <CardTitle id="upload-heading">Upload eye photograph</CardTitle>
+        <CardDescription>
+          Camera photo or file. JPG, JPEG, PNG, WEBP, BMP, TIFF, or HEIC. The model is
+          validated on retinal fundus images; unsuitable photos are rejected.
+        </CardDescription>
       </CardHeader>
 
       {!file ? (
-        <label
-          htmlFor={inputId}
-          className={cn(
-            'focus-within:ring-2 focus-within:ring-primary/40',
-            'flex min-h-56 cursor-pointer flex-col items-center justify-center gap-3 rounded-xl border border-dashed border-[#b7cdc7] bg-[#f7fbfa] px-5 py-8 text-center transition-colors',
-            isDragging && 'border-primary bg-accent',
-            disabled && 'pointer-events-none opacity-60',
-          )}
-          onDragEnter={(event) => {
-            event.preventDefault();
-            if (!disabled) setIsDragging(true);
-          }}
-          onDragOver={(event) => {
-            event.preventDefault();
-            if (!disabled) setIsDragging(true);
-          }}
-          onDragLeave={(event) => {
-            event.preventDefault();
-            setIsDragging(false);
-          }}
-          onDrop={handleDrop}
-        >
-          <Upload className="size-7 text-primary" aria-hidden="true" />
-          <span className="font-semibold text-navy">Drag and drop an image here</span>
-          <span className="text-sm text-muted">or</span>
-          <span className="inline-flex min-h-11 items-center rounded-lg border border-border bg-card px-4 text-sm font-semibold text-navy">
-            Browse / Choose Image
-          </span>
-          <input
-            id={inputId}
-            className="sr-only"
-            type="file"
-            accept={ACCEPT}
-            disabled={disabled}
-            aria-labelledby="upload-heading"
-            aria-describedby={`${inputId}-hint`}
-            onChange={handleInputChange}
-          />
-          <span id={`${inputId}-hint`} className="sr-only">
-            Supported formats are JPG, JPEG, and PNG.
-          </span>
-        </label>
+        <div className="space-y-3">
+          <label
+            htmlFor={inputId}
+            className={cn(
+              'focus-within:ring-2 focus-within:ring-primary/40',
+              'flex min-h-56 cursor-pointer flex-col items-center justify-center gap-3 rounded-xl border border-dashed border-[#b7cdc7] bg-[#f7fbfa] px-5 py-8 text-center transition-colors',
+              isDragging && 'border-primary bg-accent',
+              disabled && 'pointer-events-none opacity-60',
+            )}
+            onDragEnter={(event) => {
+              event.preventDefault();
+              if (!disabled) setIsDragging(true);
+            }}
+            onDragOver={(event) => {
+              event.preventDefault();
+              if (!disabled) setIsDragging(true);
+            }}
+            onDragLeave={(event) => {
+              event.preventDefault();
+              setIsDragging(false);
+            }}
+            onDrop={handleDrop}
+          >
+            <Upload className="size-7 text-primary" aria-hidden="true" />
+            <span className="font-semibold text-navy">Drag and drop an image here</span>
+            <span className="text-sm text-muted">or</span>
+            <span className="inline-flex min-h-11 items-center rounded-lg border border-border bg-card px-4 text-sm font-semibold text-navy">
+              Browse / Choose Image
+            </span>
+            <input
+              id={inputId}
+              className="sr-only"
+              type="file"
+              accept={IMAGE_ACCEPT}
+              disabled={disabled}
+              aria-labelledby="upload-heading"
+              aria-describedby={`${inputId}-hint`}
+              onChange={handleInputChange}
+            />
+            <span id={`${inputId}-hint`} className="sr-only">
+              Supported formats are JPG, JPEG, PNG, WEBP, BMP, TIFF, and HEIC.
+            </span>
+          </label>
+          <div className="flex justify-center">
+            <Button asChild variant="secondary" disabled={disabled}>
+              <label htmlFor={`${inputId}-camera`} className="cursor-pointer">
+                <Camera className="size-4" aria-hidden="true" />
+                Take photo
+                <input
+                  id={`${inputId}-camera`}
+                  className="sr-only"
+                  type="file"
+                  accept="image/*"
+                  capture={CAMERA_CAPTURE}
+                  disabled={disabled}
+                  aria-label="Take photo with camera"
+                  onChange={handleInputChange}
+                />
+              </label>
+            </Button>
+          </div>
+        </div>
       ) : (
         <div className="grid items-center gap-5 md:grid-cols-[180px_1fr]">
           <div className="overflow-hidden rounded-xl bg-navy">
             {previewUrl ? (
               <img
                 src={previewUrl}
-                alt="Selected fundus photograph preview"
+                alt="Selected eye photograph preview"
                 className="h-44 w-full object-cover"
               />
             ) : null}
@@ -116,9 +138,25 @@ export default function ImageUploader({
                     id={`${inputId}-change`}
                     className="sr-only"
                     type="file"
-                    accept={ACCEPT}
+                    accept={IMAGE_ACCEPT}
                     disabled={disabled}
-                    aria-label="Change selected fundus image"
+                    aria-label="Change selected eye photograph"
+                    onChange={handleInputChange}
+                  />
+                </label>
+              </Button>
+              <Button asChild variant="secondary" size="sm" disabled={disabled}>
+                <label htmlFor={`${inputId}-retake`}>
+                  <Camera className="size-4" aria-hidden="true" />
+                  Take photo
+                  <input
+                    id={`${inputId}-retake`}
+                    className="sr-only"
+                    type="file"
+                    accept="image/*"
+                    capture={CAMERA_CAPTURE}
+                    disabled={disabled}
+                    aria-label="Take a new photo with camera"
                     onChange={handleInputChange}
                   />
                 </label>

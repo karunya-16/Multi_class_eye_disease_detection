@@ -1,0 +1,10 @@
+true_disease,predicted_disease,count
+Glaucoma,Normal,78
+Glaucoma,Cataract,13
+Normal,Glaucoma,11
+Cataract,Normal,9
+Normal,Diabetic Retinopathy,8
+Normal,Cataract,6
+Cataract,Glaucoma,3
+Diabetic Retinopathy,Normal,3
+Glaucoma,Diabetic Retinopathy,2

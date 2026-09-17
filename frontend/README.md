@@ -1,7 +1,15 @@
 # Eye Disease Detection Frontend
 
-Vite + React UI that sends a fundus image to the FastAPI backend at
-`POST /predict` (multipart field: `file`).
+Vite + React UI for the 4-class FastAPI backend at `http://127.0.0.1:8000`.
+
+- Analysis: camera or file upload → `POST /predict`, `POST /predict-with-gradcam`
+- Dashboard: `GET /dashboard`
+- History: `GET /history`, `GET /history/{id}`
+
+Predicted labels in the UI are disease names: Normal, Cataract, Diabetic
+Retinopathy, Glaucoma. The screening model is validated on retinal fundus
+images (84.94% test accuracy). Camera/photo support is input validation and
+preprocessing only. Unsuitable images show **Please upload a clear image**.
 
 ## Setup
 

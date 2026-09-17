@@ -1,0 +1,18 @@
+source_dataset,folder,image_count,reliable_mapping,maps_to_class_id,maps_to_disease,notes
+Eye Disease detection,cataract,1038,True,1.0,Cataract,Direct folder-name label
+Eye Disease detection,diabetic_retinopathy,1098,True,2.0,Diabetic Retinopathy,Direct folder-name label
+Eye Disease detection,glaucoma,1007,True,3.0,Glaucoma,Direct folder-name label
+Eye Disease detection,normal,1074,True,0.0,Normal,Direct folder-name label
+GlaucomaFundusImaging/G1020,Images (label=1),296,True,3.0,Glaucoma,G1020.csv binaryLabels=1
+GlaucomaFundusImaging/G1020,Images (label=0),724,True,0.0,Normal,G1020.csv binaryLabels=0
+GlaucomaFundusImaging/ORIGA,Images (Glaucoma=1),168,True,3.0,Glaucoma,OrigaList.csv Glaucoma=1
+GlaucomaFundusImaging/ORIGA,Images (Glaucoma=0),482,True,0.0,Normal,OrigaList.csv Glaucoma=0
+GlaucomaFundusImaging/REFUGE,train+test+val/Images,1200,False,,,EXCLUDED: segmentation dataset only — no per-image classification label
+Dataset,train/images,1385,False,,,"EXCLUDED: YOLO detection format (bounding boxes), not a classification dataset"
+Dataset,test/images,198,False,,,"EXCLUDED: YOLO detection format (bounding boxes), not a classification dataset"
+Dataset,val/images,396,False,,,"EXCLUDED: YOLO detection format (bounding boxes), not a classification dataset"
+Messidor-2+EyePac_Balanced,0,360,False,,,EXCLUDED: DR severity grade 0 (0=no DR..4=proliferative) — ambiguous mapping to 4-class schema
+Messidor-2+EyePac_Balanced,1,360,False,,,EXCLUDED: DR severity grade 1 (0=no DR..4=proliferative) — ambiguous mapping to 4-class schema
+Messidor-2+EyePac_Balanced,2,360,False,,,EXCLUDED: DR severity grade 2 (0=no DR..4=proliferative) — ambiguous mapping to 4-class schema
+Messidor-2+EyePac_Balanced,3,360,False,,,EXCLUDED: DR severity grade 3 (0=no DR..4=proliferative) — ambiguous mapping to 4-class schema
+Messidor-2+EyePac_Balanced,4,360,False,,,EXCLUDED: DR severity grade 4 (0=no DR..4=proliferative) — ambiguous mapping to 4-class schema

@@ -1,0 +1,19 @@
+{
+  "model": "efficientnetv2_b0_4class_best.keras",
+  "test_split": "d:\\Practice Projects\\Disease Detection\\preprocessing\\splits_v2\\test.csv",
+  "classes": [
+    "Normal",
+    "Cataract",
+    "Diabetic Retinopathy",
+    "Glaucoma"
+  ],
+  "test_images": 883,
+  "correct_predictions": 750,
+  "incorrect_predictions": 133,
+  "accuracy_percent": 84.94,
+  "best_f1_class": "Diabetic Retinopathy",
+  "weakest_recall_class": "Glaucoma",
+  "glaucoma_recall_percent": 57.73,
+  "most_common_misclassification": "Glaucoma -> Normal",
+  "macro_roc_auc": 0.9591
+}

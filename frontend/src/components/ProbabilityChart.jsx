@@ -23,7 +23,7 @@ export default function ProbabilityChart({ probabilities, predictedLabel }) {
     <div
       className="h-72 min-w-0 w-full max-w-full"
       role="img"
-      aria-label="Class 0 through Class 4 probability bar chart from the FastAPI response"
+      aria-label="Four-class probability bar chart from the FastAPI response"
     >
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data} margin={{ top: 8, right: 8, left: 0, bottom: 8 }}>

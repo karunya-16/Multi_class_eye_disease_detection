@@ -1,7 +1,6 @@
 import { motion } from 'motion/react';
 import { Activity, BadgeCheck } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
-import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { Badge } from '@/components/ui/badge';
 import ProbabilityChart from '@/components/ProbabilityChart';
 import GradCamSection from '@/components/GradCamSection';
@@ -17,8 +16,13 @@ export default function ResultPanel({
   onRetryGradCam,
   historical = false,
 }) {
-  const probabilities = result.class_probabilities || {};
-  const confidencePct = Number(result.confidence_percentage);
+  const probabilities = result.probabilities || result.class_probabilities || {};
+  const disease = result.disease || result.predicted_label;
+  const confidencePct = Number(
+    Number.isFinite(Number(result.confidence_percentage))
+      ? result.confidence_percentage
+      : Number(result.confidence) * 100,
+  );
   const probabilitySum = CLASS_NAMES.reduce(
     (sum, name) => sum + Number(probabilities[name] || 0),
     0,
@@ -54,15 +58,12 @@ export default function ResultPanel({
             </figure>
             <div className="grid gap-3">
               <div className="rounded-xl border border-border bg-[#f7fbfa] p-4">
-                <p className="text-sm text-muted">Predicted Class</p>
+                <p className="text-sm text-muted">Predicted disease</p>
                 <p
                   className="text-2xl font-bold text-navy"
                   data-testid="predicted-label"
                 >
-                  {result.predicted_label}
-                </p>
-                <p className="mt-1 text-sm text-muted" data-testid="predicted-class">
-                  predicted_class: {result.predicted_class}
+                  {disease}
                 </p>
               </div>
               <div className="rounded-xl border border-border bg-[#f7fbfa] p-4">
@@ -86,15 +87,15 @@ export default function ResultPanel({
 
           <div>
             <div className="mb-3 flex flex-wrap items-center gap-2">
-              <h3 className="text-base font-semibold text-navy">Class probabilities</h3>
+              <h3 className="text-base font-semibold text-navy">Disease probabilities</h3>
               <Badge className="gap-1">
                 <BadgeCheck className="size-3.5" aria-hidden="true" />
-                Predicted: {result.predicted_label}
+                Predicted: {disease}
               </Badge>
             </div>
             <ProbabilityChart
               probabilities={probabilities}
-              predictedLabel={result.predicted_label}
+              predictedLabel={disease}
             />
             <ul className="mt-3 grid gap-1 text-sm text-muted sm:grid-cols-2" data-testid="class-probabilities">
               {CLASS_NAMES.map((name) => (
@@ -119,15 +120,6 @@ export default function ResultPanel({
               historical={historical}
             />
           </div>
-
-          {result.severity_available === true ? null : (
-            <Alert variant="info">
-              <AlertTitle>Severity estimation is not currently available.</AlertTitle>
-              <AlertDescription>
-                <p>Model confidence is not disease severity or percentage of eye damage.</p>
-              </AlertDescription>
-            </Alert>
-          )}
 
           {result.message ? (
             <p className="text-sm text-muted" data-testid="backend-message">
