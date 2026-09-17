@@ -71,3 +71,52 @@ Thumbs.db
 # =========================
 dataset/
 processed_dataset/
+
+
+# =========================
+# ML Models
+# =========================
+*.keras
+*.h5
+*.pth
+*.pt
+*.onnx
+
+# =========================
+# Generated Datasets
+# =========================
+camera_dataset_prepared/
+external_camera_validation/
+preprocessing/processed_dataset_v2/
+
+# =========================
+# Generated Dataset Metadata
+# =========================
+preprocessing/dataset_metadata_v2.csv
+preprocessing/splits_v2_metadata.csv
+preprocessing/test_v2.csv
+preprocessing/train_v2.csv
+preprocessing/validation_v2.csv
+
+# =========================
+# Generated Reports
+# =========================
+reports/
+logs/
+
+# =========================
+# Temporary Scripts / Files
+# =========================
+build_nb12.py
+build_nb12b.py
+patch_nb12.py
+run_nb12.bat
+dataset_classes_temp.txt
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
